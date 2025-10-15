@@ -1,0 +1,2501 @@
+Car_Age,KM_Driven,Fuel_Type,Transmission,Mileage,Engine,Owner_Type,Selling_Price
+7,37994,CNG,Automatic,20.17,1759,Third,11.84
+15,151108,Petrol,Automatic,14.86,2326,Fourth & Above,1.38
+11,102756,Petrol,Manual,24.9,2668,First,20.78
+8,185488,CNG,Automatic,13.36,1172,Second,22.09
+7,145659,Petrol,Automatic,13.8,2749,Second,17.36
+19,100665,Electric,Manual,19.21,1044,Third,13.99
+11,136717,CNG,Automatic,15.73,2640,Second,24.06
+11,167002,Electric,Automatic,14.95,2476,Fourth & Above,3.88
+4,86835,Diesel,Automatic,22.9,924,Fourth & Above,18.71
+8,127232,Petrol,Automatic,23.02,1336,Second,4.08
+3,166162,Diesel,Automatic,26.49,2719,Third,10.16
+2,188214,Diesel,Manual,18.35,2435,Second,15.05
+12,162547,Petrol,Manual,11.46,2225,Second,18.69
+6,154960,CNG,Manual,15.47,2340,Third,1.09
+2,48732,Petrol,Automatic,29.6,1330,Fourth & Above,7.25
+1,51305,Diesel,Manual,21.93,1053,First,13.92
+12,182109,Diesel,Automatic,24.19,2968,Second,13.79
+12,14346,CNG,Automatic,10.15,1460,Fourth & Above,16.3
+17,5587,Petrol,Automatic,20.36,2601,Second,8.29
+10,17763,Diesel,Manual,10.75,1860,First,13.97
+16,195237,Electric,Manual,21.38,2165,Third,5.55
+15,74615,Diesel,Manual,28.42,1836,Fourth & Above,5.48
+15,172188,Diesel,Automatic,29.37,2006,First,14.84
+19,125987,CNG,Manual,20.81,2935,Second,17.45
+12,96353,Electric,Automatic,19.16,2893,First,3.89
+3,100648,Diesel,Manual,28.9,1942,Fourth & Above,3.95
+5,30556,Diesel,Manual,23.47,2354,Third,14.57
+19,64042,Electric,Automatic,11.3,2555,Second,7.48
+7,23099,Petrol,Automatic,19.31,2765,Third,10.42
+9,114089,Petrol,Manual,14.8,1544,Third,10.62
+7,181168,Diesel,Manual,19.4,2429,First,5.29
+18,149302,Diesel,Manual,19.11,1766,First,1.03
+4,165081,Petrol,Automatic,21.64,1562,Fourth & Above,21.48
+14,38866,CNG,Automatic,17.14,1593,Fourth & Above,18.16
+18,110400,Electric,Manual,13.29,1543,Third,17.57
+9,89246,Electric,Manual,20.07,1869,Fourth & Above,14.12
+2,81975,CNG,Automatic,26.6,2331,Third,17.82
+15,177927,CNG,Manual,23.28,1357,Second,23.46
+7,86557,CNG,Automatic,16.77,2794,Third,16.98
+12,142488,CNG,Automatic,28.71,1325,Fourth & Above,7.36
+8,77516,CNG,Automatic,28.24,1639,Fourth & Above,14.69
+15,191987,CNG,Automatic,14.19,802,Third,11.62
+3,154130,Electric,Automatic,10.79,1851,First,14.35
+14,176790,CNG,Automatic,24.83,2204,Third,13.42
+17,37602,Petrol,Manual,26.55,956,Third,21.61
+4,194139,CNG,Automatic,29.36,2737,First,16.64
+18,163588,CNG,Automatic,27.8,2754,Second,5.53
+8,134295,Electric,Manual,22.01,1310,First,2.51
+4,92969,Electric,Automatic,20.6,1486,Fourth & Above,11.18
+2,137161,CNG,Manual,10.56,1937,First,1.37
+6,173418,Electric,Automatic,14.93,2212,Fourth & Above,8.64
+10,146559,Diesel,Manual,19.19,2310,Fourth & Above,9.83
+4,5155,Electric,Manual,22.57,1370,Third,10.01
+18,128950,Electric,Automatic,21.15,1514,Third,24.5
+12,72494,Electric,Automatic,24.85,2138,Second,8.29
+2,81229,Electric,Automatic,15.6,1790,Fourth & Above,7.37
+10,109648,Petrol,Automatic,21.3,1133,Third,4.11
+4,43547,Petrol,Manual,11.76,2960,Fourth & Above,13.26
+14,33795,Petrol,Manual,18.27,2444,Second,4.69
+16,191368,CNG,Manual,25.0,1161,Fourth & Above,15.79
+15,26447,CNG,Automatic,23.87,2680,Second,4.72
+8,172670,Diesel,Manual,29.81,2944,Second,14.84
+14,177886,Petrol,Automatic,15.56,2781,Second,20.83
+8,92960,CNG,Automatic,19.96,2863,Third,2.02
+16,68278,Electric,Manual,16.59,2777,First,11.07
+13,60077,Electric,Automatic,18.81,1175,First,12.07
+18,117782,Petrol,Manual,27.14,1541,Third,19.99
+15,107932,Diesel,Automatic,23.68,1189,Fourth & Above,12.23
+13,145600,Diesel,Manual,27.65,2040,Third,14.62
+9,186172,Electric,Automatic,14.07,1623,Fourth & Above,19.99
+15,114869,Diesel,Manual,27.47,1217,Second,14.43
+13,144251,Petrol,Manual,11.2,1406,Third,9.6
+1,53781,Electric,Automatic,27.77,1367,First,3.06
+7,191339,CNG,Automatic,16.58,1343,Fourth & Above,18.52
+9,160024,CNG,Manual,16.29,1683,Third,21.91
+1,58798,Diesel,Automatic,20.24,1502,Third,24.28
+12,103696,Electric,Automatic,28.81,2023,Fourth & Above,23.24
+8,55939,Electric,Automatic,10.96,2422,Second,20.14
+11,34516,CNG,Manual,17.04,2868,Second,16.44
+19,192598,Electric,Manual,27.13,2586,Second,19.76
+17,146521,Electric,Automatic,17.92,2419,Second,11.37
+8,55290,Electric,Automatic,13.98,2257,Fourth & Above,15.27
+3,131688,Diesel,Manual,18.5,2383,First,9.37
+3,91661,Electric,Automatic,17.71,2714,Third,8.84
+1,77954,Petrol,Manual,28.31,877,Third,19.16
+5,27746,Diesel,Automatic,25.24,2108,Second,11.89
+10,72990,Electric,Automatic,20.1,1447,Fourth & Above,6.09
+7,63810,Electric,Automatic,29.77,2987,First,5.85
+9,123362,Petrol,Manual,19.31,1352,First,21.62
+7,151295,Diesel,Manual,11.16,1797,Third,17.27
+9,138669,CNG,Manual,15.25,1081,Second,14.11
+8,7659,CNG,Manual,18.72,2081,Third,10.62
+12,91516,Diesel,Automatic,13.14,2646,Third,11.34
+2,79567,Electric,Automatic,28.95,2183,First,2.38
+1,20037,Electric,Manual,25.34,1957,Fourth & Above,11.92
+16,131498,CNG,Automatic,15.37,903,First,20.09
+5,182810,CNG,Automatic,21.82,1565,Third,10.31
+3,17109,CNG,Manual,24.43,2942,Second,10.21
+12,27010,Petrol,Automatic,28.83,2396,Second,1.38
+8,13787,CNG,Automatic,27.63,1279,Fourth & Above,11.99
+3,144544,Petrol,Manual,20.3,2860,Fourth & Above,1.61
+1,159455,Diesel,Automatic,25.49,2763,Fourth & Above,14.69
+3,66709,Electric,Automatic,21.24,2942,Third,13.16
+5,39518,CNG,Automatic,21.05,2872,Third,21.16
+15,58909,Electric,Manual,12.29,2095,Fourth & Above,14.96
+14,23351,Electric,Manual,12.52,2328,Second,8.76
+3,189402,CNG,Automatic,20.59,1989,Second,13.39
+1,20282,CNG,Automatic,15.38,1738,Second,17.79
+5,157850,Diesel,Automatic,10.42,1561,Third,3.26
+14,160336,Petrol,Manual,24.46,1453,First,15.91
+7,195747,Petrol,Manual,10.65,2469,Second,23.0
+9,10075,Electric,Manual,21.91,2731,Second,8.18
+15,184526,CNG,Automatic,20.78,1926,Second,16.04
+15,33365,Diesel,Automatic,29.38,2725,Fourth & Above,20.71
+10,184272,Diesel,Automatic,19.68,1374,Third,13.28
+13,16002,Diesel,Automatic,11.27,2129,Fourth & Above,18.23
+19,18947,Diesel,Automatic,21.03,2077,Fourth & Above,8.46
+7,99840,Diesel,Manual,26.82,2003,First,8.35
+17,121219,Petrol,Automatic,29.94,839,Fourth & Above,17.02
+4,83610,Petrol,Automatic,18.61,1319,First,17.93
+5,57142,Petrol,Automatic,16.41,2439,Fourth & Above,23.49
+7,61307,CNG,Manual,28.13,1262,Second,6.4
+13,140565,Electric,Automatic,13.82,2051,Third,12.24
+15,55085,Diesel,Manual,22.31,2648,Fourth & Above,7.01
+11,39228,CNG,Manual,18.11,1282,First,2.92
+4,187947,Diesel,Manual,10.82,1142,Third,10.68
+13,167727,Petrol,Manual,16.95,1996,First,9.98
+7,48472,CNG,Manual,15.3,2262,Second,7.49
+19,54437,Petrol,Automatic,23.72,2002,Fourth & Above,8.13
+2,185488,Diesel,Automatic,28.98,2421,Third,9.65
+10,64711,Diesel,Manual,15.36,2980,Second,24.73
+13,142888,Electric,Manual,26.23,2931,Fourth & Above,19.79
+6,82175,Diesel,Manual,11.11,1792,Fourth & Above,2.71
+12,69307,Petrol,Automatic,20.76,1989,First,21.94
+12,51733,Diesel,Automatic,11.41,2403,First,16.2
+11,133202,Electric,Manual,28.68,1993,Second,22.37
+7,100028,Electric,Automatic,25.33,1397,First,9.2
+1,147312,Petrol,Automatic,23.16,1444,Second,12.15
+1,97493,CNG,Manual,26.48,1247,Second,22.51
+13,130149,Diesel,Manual,22.95,1563,Second,7.54
+9,168834,Electric,Automatic,29.38,1534,First,22.97
+3,13259,Diesel,Automatic,24.28,2442,Third,20.88
+7,186211,Diesel,Automatic,28.49,1400,Second,24.53
+6,133775,CNG,Manual,20.34,2972,Third,8.78
+8,19849,Electric,Manual,12.34,2960,Fourth & Above,6.66
+9,86768,Diesel,Manual,20.56,1780,First,8.94
+5,111108,Electric,Automatic,12.54,2582,First,23.91
+1,94709,Petrol,Automatic,21.85,2997,Third,8.99
+19,59869,Petrol,Manual,19.65,1379,Fourth & Above,14.57
+10,131888,Diesel,Automatic,22.45,1582,Fourth & Above,10.69
+12,68095,Electric,Manual,10.2,1331,Second,10.51
+15,122886,Diesel,Automatic,13.9,2312,First,5.64
+9,75910,Electric,Manual,19.83,1411,Fourth & Above,13.89
+17,28567,Electric,Automatic,29.01,2805,Fourth & Above,21.39
+17,40292,CNG,Automatic,17.67,1900,Second,2.19
+12,79813,CNG,Manual,18.49,2470,Second,22.34
+7,102136,CNG,Manual,24.29,2215,Third,16.97
+2,56631,Diesel,Manual,22.08,2235,First,15.8
+3,14885,CNG,Manual,15.98,1674,Fourth & Above,16.02
+17,195731,CNG,Manual,18.22,1016,Third,8.11
+5,190378,Petrol,Automatic,14.35,1175,First,10.96
+17,71314,Electric,Manual,29.32,2409,Third,20.18
+17,70087,Electric,Manual,12.61,810,First,8.35
+17,165237,CNG,Manual,17.44,2413,First,12.28
+2,195001,Electric,Manual,10.52,1617,Fourth & Above,1.47
+2,100998,Petrol,Manual,14.44,2096,First,18.61
+5,54812,Petrol,Automatic,25.61,1490,Second,11.02
+1,186572,CNG,Manual,14.02,2399,Fourth & Above,13.61
+1,63643,Petrol,Manual,11.6,2332,Second,3.75
+19,49900,Electric,Manual,19.49,1955,Third,24.8
+2,179018,Diesel,Automatic,10.2,2747,Third,8.26
+12,143923,Electric,Automatic,11.7,1583,First,16.24
+6,21288,Diesel,Manual,26.15,2772,First,14.95
+4,77692,CNG,Manual,25.43,2676,Second,19.84
+11,143440,Diesel,Automatic,28.3,1584,Second,8.05
+17,90436,Petrol,Automatic,27.09,1196,Second,19.14
+6,51403,Electric,Automatic,23.66,1881,Third,10.18
+5,96170,Diesel,Manual,11.05,2303,Second,10.87
+2,14168,Electric,Manual,25.66,2833,Fourth & Above,17.15
+6,54879,CNG,Automatic,26.91,2414,Fourth & Above,19.82
+11,64871,CNG,Manual,25.98,1259,Third,17.0
+16,37174,Petrol,Automatic,20.17,2908,Second,22.6
+16,142653,CNG,Automatic,14.66,1345,Second,7.84
+1,115155,Diesel,Automatic,26.91,1296,First,22.61
+9,76853,CNG,Manual,24.54,1304,Fourth & Above,4.14
+6,69046,Petrol,Automatic,29.62,1892,Third,16.83
+16,54678,Electric,Automatic,13.11,2437,Second,14.14
+3,31649,Electric,Manual,14.51,1517,First,12.87
+4,132795,CNG,Automatic,14.24,2392,Third,8.46
+19,93668,Diesel,Manual,25.85,2208,Third,13.09
+3,150639,Petrol,Automatic,13.74,1068,Fourth & Above,4.88
+19,94906,Diesel,Manual,11.33,2746,Second,9.86
+7,101019,Petrol,Automatic,29.97,2277,Third,3.37
+9,198016,CNG,Automatic,10.5,2341,First,14.72
+1,83002,Petrol,Automatic,26.7,1664,First,3.3
+8,33803,Petrol,Automatic,17.31,909,Third,4.85
+7,154302,CNG,Automatic,26.83,1449,First,3.05
+18,153934,Diesel,Manual,21.09,2898,Third,10.15
+8,179427,CNG,Manual,28.03,2299,First,21.21
+1,167331,Petrol,Automatic,28.52,1910,Third,22.77
+11,35795,CNG,Automatic,10.18,1395,Third,2.73
+18,13770,Petrol,Automatic,11.51,1778,Third,16.23
+10,16093,CNG,Manual,15.01,1530,First,17.43
+3,182643,Electric,Manual,23.39,856,Third,13.81
+7,136265,Electric,Automatic,27.77,2583,Fourth & Above,17.01
+16,105311,CNG,Manual,19.2,2501,Third,6.61
+16,22569,Diesel,Automatic,22.14,2086,Second,12.75
+17,16190,Petrol,Automatic,13.77,911,Second,10.38
+2,67824,Electric,Automatic,26.1,1510,Fourth & Above,3.15
+1,178824,Diesel,Manual,29.35,2001,Third,16.01
+16,168399,Petrol,Automatic,15.37,1747,Second,12.89
+12,47070,Electric,Automatic,19.9,825,Third,7.6
+5,45197,Electric,Automatic,11.72,1557,Second,12.37
+5,7261,CNG,Manual,21.18,2600,First,19.61
+9,162584,Petrol,Manual,20.06,2355,First,20.24
+9,142788,Diesel,Manual,12.89,2641,Fourth & Above,16.59
+3,91795,Diesel,Automatic,18.84,1904,Fourth & Above,12.23
+19,33933,Diesel,Manual,16.68,1461,Third,14.82
+16,140450,Petrol,Automatic,20.44,1708,Fourth & Above,10.24
+16,45583,Diesel,Manual,21.71,1321,Third,4.04
+3,117082,Diesel,Automatic,10.17,2656,First,10.25
+1,90371,Diesel,Manual,25.22,2559,First,13.73
+11,165105,CNG,Automatic,24.26,1589,Second,15.37
+17,160072,CNG,Manual,17.33,2097,Third,23.46
+8,116032,Petrol,Manual,11.06,2529,First,19.66
+4,47604,Petrol,Manual,25.1,971,First,4.65
+6,100074,Diesel,Automatic,29.1,1064,Third,5.18
+8,78869,CNG,Manual,14.8,2786,Second,3.41
+3,10410,Electric,Manual,16.47,1849,Second,18.72
+16,88375,Electric,Manual,13.68,2292,Second,17.95
+3,192116,Diesel,Manual,21.54,2685,Second,24.67
+18,199387,Diesel,Automatic,13.1,1275,First,13.53
+14,101055,CNG,Manual,17.12,1849,Third,20.83
+18,142868,CNG,Automatic,23.94,833,Third,14.83
+2,91716,CNG,Automatic,21.2,1961,First,21.98
+3,59245,Petrol,Automatic,17.73,1615,First,18.3
+16,48056,Petrol,Automatic,18.4,1553,First,16.43
+9,153781,Diesel,Manual,21.24,1365,Fourth & Above,14.56
+4,63557,Petrol,Automatic,10.12,1261,Third,18.35
+1,22543,CNG,Automatic,11.57,2454,Third,11.07
+4,173490,CNG,Automatic,27.63,880,Third,3.32
+1,101038,Petrol,Automatic,11.56,2737,Second,1.96
+14,152796,Electric,Manual,24.14,1669,First,12.5
+16,8828,Diesel,Manual,28.4,2230,First,15.38
+8,121656,Electric,Automatic,15.41,1869,First,2.89
+7,22087,Diesel,Automatic,17.41,1398,Fourth & Above,7.89
+3,148677,Electric,Automatic,21.38,2434,Third,8.73
+17,36337,Petrol,Manual,27.63,1606,First,14.51
+1,141554,Diesel,Manual,28.84,2734,Fourth & Above,7.68
+16,70333,Diesel,Manual,24.79,1876,First,3.3
+12,187024,Diesel,Manual,11.73,1503,Second,4.96
+19,141535,CNG,Manual,23.38,2863,Third,5.17
+14,75448,CNG,Automatic,18.21,1286,Fourth & Above,21.22
+6,9648,Electric,Manual,19.41,1505,First,7.82
+6,135576,Petrol,Manual,10.98,2325,Third,18.15
+13,38623,CNG,Automatic,13.82,1964,Fourth & Above,14.63
+19,195228,Diesel,Manual,25.81,1419,Third,24.45
+8,40634,CNG,Manual,19.08,1576,Third,7.55
+2,180674,Petrol,Manual,16.03,1246,Second,4.8
+1,119598,CNG,Automatic,17.68,1008,Third,2.25
+15,54334,Diesel,Manual,27.09,2298,Fourth & Above,6.78
+1,73648,Electric,Automatic,24.98,2250,Third,17.42
+5,27054,Diesel,Automatic,15.45,2677,Fourth & Above,3.05
+16,75028,Petrol,Manual,12.35,2091,Third,6.87
+19,27207,Electric,Manual,15.04,2998,First,21.53
+4,86554,CNG,Manual,28.42,2542,Second,14.99
+3,157458,CNG,Manual,21.63,2078,First,2.67
+17,88276,CNG,Automatic,20.67,2200,Second,2.14
+17,195590,Electric,Manual,21.93,2476,Fourth & Above,2.47
+12,57781,Diesel,Automatic,17.32,1654,Second,23.61
+14,188852,Electric,Automatic,26.14,2181,Third,21.4
+6,197512,Electric,Automatic,20.47,1504,Third,21.28
+3,180271,Petrol,Automatic,12.33,1625,First,23.18
+9,66035,Electric,Automatic,12.58,1804,Second,13.13
+5,13210,CNG,Manual,20.74,1176,Fourth & Above,6.94
+17,49363,Diesel,Automatic,28.73,1772,Fourth & Above,10.63
+14,83279,Diesel,Automatic,16.17,917,Third,18.25
+3,196420,Diesel,Manual,27.39,1243,Fourth & Above,22.02
+1,191356,CNG,Manual,25.28,1554,Third,11.44
+1,158504,CNG,Automatic,14.96,1439,Third,13.85
+3,191470,CNG,Automatic,10.73,2971,Third,23.36
+18,139393,CNG,Manual,12.04,2100,First,3.58
+10,86348,CNG,Automatic,24.57,1422,First,21.7
+3,173455,Electric,Manual,13.99,2292,Third,4.82
+8,118816,CNG,Manual,17.43,2808,Third,12.61
+14,128053,CNG,Automatic,20.03,2451,Third,6.24
+18,188965,CNG,Manual,24.51,2523,Fourth & Above,15.47
+15,171892,CNG,Automatic,12.26,2719,Third,14.41
+2,71262,Diesel,Automatic,18.13,1718,Third,10.12
+10,139832,CNG,Automatic,19.7,1973,Second,21.72
+2,158262,Electric,Manual,20.82,1985,Second,16.84
+17,72411,Electric,Automatic,26.37,919,Second,18.31
+8,28377,Electric,Manual,13.43,1381,Second,4.62
+1,182809,Petrol,Automatic,26.16,2747,Third,22.2
+9,43211,Diesel,Automatic,23.86,2946,Second,5.01
+11,8744,CNG,Manual,21.12,1990,Fourth & Above,6.35
+16,29995,Petrol,Automatic,23.99,2486,Fourth & Above,4.07
+7,153049,CNG,Automatic,18.24,2799,Second,11.57
+10,39542,Petrol,Manual,12.77,1200,First,22.31
+3,15651,Petrol,Manual,23.32,2149,Fourth & Above,7.06
+18,104239,Electric,Manual,20.49,2456,Fourth & Above,9.97
+13,83931,Electric,Automatic,22.79,1420,Second,21.31
+7,107112,Petrol,Manual,16.76,1046,Second,15.83
+4,21715,Electric,Manual,28.14,1916,Third,19.04
+13,180481,Petrol,Automatic,21.75,1423,Fourth & Above,6.14
+1,160378,Diesel,Manual,11.71,2639,Second,18.2
+8,155158,Electric,Automatic,19.0,2909,Second,6.46
+14,150448,Electric,Automatic,25.13,1099,Third,24.7
+16,66350,Electric,Manual,25.88,1202,Fourth & Above,14.44
+14,76425,Diesel,Automatic,19.89,2471,Second,17.7
+12,172708,Petrol,Manual,27.89,1052,Third,3.84
+19,91120,CNG,Manual,15.35,2557,Second,7.02
+15,119889,Electric,Manual,18.21,2192,First,4.35
+2,187721,Petrol,Manual,27.97,2764,First,10.36
+2,170682,Diesel,Automatic,27.93,959,Second,7.82
+19,146130,CNG,Automatic,23.71,1004,Fourth & Above,18.59
+17,79637,Electric,Manual,27.18,1961,First,3.61
+10,75194,Diesel,Manual,11.78,2191,Third,19.05
+6,81917,Diesel,Automatic,27.3,1657,Second,2.1
+15,69200,CNG,Manual,16.41,1559,Third,5.85
+11,110848,Petrol,Automatic,13.57,2390,First,20.01
+5,111022,Electric,Manual,14.79,2915,Fourth & Above,18.83
+1,182691,Electric,Automatic,18.36,932,Third,12.43
+8,153226,Petrol,Automatic,15.02,2523,First,2.2
+12,155611,Petrol,Automatic,16.41,1229,First,15.64
+12,65058,Petrol,Manual,12.7,1997,First,10.76
+5,67068,CNG,Manual,15.92,896,Third,8.6
+7,104932,CNG,Manual,21.45,2506,First,16.37
+4,166445,Electric,Manual,18.84,1977,Second,11.48
+6,169226,CNG,Manual,16.93,2518,First,3.22
+13,142103,Diesel,Automatic,24.93,2065,Second,22.98
+15,27785,Electric,Automatic,27.87,2127,Fourth & Above,19.68
+3,164741,CNG,Automatic,25.14,2108,Second,2.35
+8,99475,Petrol,Automatic,16.64,1850,Fourth & Above,13.6
+16,7282,Diesel,Automatic,24.89,2183,Fourth & Above,3.0
+13,170696,Petrol,Automatic,13.04,1380,Second,21.09
+18,184510,Electric,Automatic,12.61,1332,Fourth & Above,15.71
+10,72534,Petrol,Manual,16.91,1975,Second,5.14
+19,167777,CNG,Automatic,26.15,1925,Third,1.5
+17,174316,CNG,Manual,14.93,1698,Fourth & Above,1.76
+19,79964,Electric,Automatic,11.27,2269,Second,13.18
+5,173509,Petrol,Automatic,12.63,2052,Fourth & Above,18.62
+9,124006,Electric,Manual,27.17,1569,First,3.9
+12,55583,Petrol,Automatic,22.68,1633,Second,6.31
+1,43392,Diesel,Manual,15.06,2704,First,8.85
+1,12461,CNG,Automatic,21.11,1353,Fourth & Above,6.23
+15,105123,Electric,Manual,20.55,1891,Fourth & Above,10.39
+2,15516,Diesel,Automatic,23.11,1996,Third,14.43
+16,153586,Diesel,Manual,14.66,2460,Second,17.44
+8,126251,Electric,Manual,27.29,1358,First,24.13
+13,172340,Electric,Automatic,16.19,1060,Third,23.34
+1,172860,Diesel,Automatic,23.88,2640,Fourth & Above,14.68
+16,197121,Petrol,Manual,10.32,1947,Fourth & Above,18.62
+7,67493,Diesel,Automatic,17.45,1604,Third,23.82
+5,41027,Electric,Manual,17.03,1985,First,3.0
+3,98547,Diesel,Automatic,20.87,1074,Fourth & Above,1.14
+12,178921,Petrol,Manual,11.45,1005,Fourth & Above,1.72
+16,105127,CNG,Automatic,25.8,2523,Second,14.52
+19,153930,CNG,Manual,14.36,1666,Third,19.31
+5,84003,Diesel,Automatic,23.54,892,Fourth & Above,9.81
+14,188467,Petrol,Manual,26.06,1865,First,14.09
+5,44758,CNG,Manual,21.24,2151,Second,13.39
+15,59312,Diesel,Automatic,24.82,2912,Third,3.27
+17,73670,Diesel,Automatic,23.24,1164,First,8.72
+14,87279,Petrol,Manual,17.11,1620,Fourth & Above,1.47
+5,20434,Electric,Manual,26.18,2307,Third,3.66
+12,183847,Diesel,Manual,15.89,2829,Third,20.48
+16,80769,Electric,Manual,21.42,2724,First,20.91
+16,71677,Electric,Automatic,24.91,1885,Third,20.25
+7,88555,CNG,Manual,17.58,2096,First,18.44
+4,133379,Electric,Manual,16.06,1843,Fourth & Above,20.04
+1,181806,Petrol,Manual,19.19,802,Second,17.1
+5,106665,CNG,Automatic,26.36,2553,First,17.08
+10,176675,CNG,Manual,28.6,1710,Second,17.02
+5,73803,CNG,Automatic,20.9,1106,Third,13.34
+4,175404,Diesel,Automatic,23.23,935,First,9.72
+2,96703,Diesel,Automatic,28.07,2732,Fourth & Above,18.52
+10,26312,Electric,Automatic,11.97,2408,First,8.17
+19,180251,CNG,Automatic,14.64,2238,First,14.03
+1,122961,CNG,Automatic,24.18,1672,First,11.4
+5,45379,Petrol,Automatic,26.47,1941,Second,7.64
+13,22297,Electric,Manual,27.14,1465,Second,24.39
+4,7011,Petrol,Manual,18.3,1008,Third,7.21
+16,125234,Electric,Automatic,11.79,1751,Third,8.42
+16,49014,Electric,Manual,18.76,1857,Third,4.88
+2,147810,Diesel,Manual,14.61,1448,Third,20.75
+17,99333,Diesel,Automatic,15.82,2141,First,15.08
+12,183570,Petrol,Manual,25.45,2967,Second,15.71
+18,16120,Electric,Automatic,11.51,1426,Second,20.69
+3,144839,CNG,Manual,26.55,1324,Second,9.23
+1,27852,Diesel,Automatic,18.55,2404,Second,5.65
+1,84239,CNG,Automatic,21.92,2668,Third,5.76
+19,137001,Petrol,Manual,11.79,1568,First,18.58
+11,96575,Diesel,Manual,16.75,2894,Second,15.74
+5,100040,Diesel,Automatic,11.79,1571,Fourth & Above,5.95
+12,153510,Electric,Automatic,29.23,1539,First,4.48
+3,184587,Petrol,Automatic,26.15,1321,Fourth & Above,3.9
+1,10744,Electric,Manual,19.19,2200,First,16.07
+1,178489,Diesel,Manual,14.47,2981,First,1.0
+8,143141,Petrol,Manual,28.67,1047,First,1.44
+10,47359,Diesel,Manual,16.89,2141,Fourth & Above,10.35
+11,155871,Petrol,Automatic,13.22,2658,Second,17.59
+12,103746,Diesel,Automatic,21.26,1485,Second,17.68
+13,125906,CNG,Automatic,28.88,1385,Fourth & Above,11.32
+12,12597,CNG,Automatic,10.08,942,Second,17.59
+14,52093,Electric,Manual,14.76,1766,Third,13.51
+2,173298,CNG,Automatic,28.77,1517,Second,24.45
+19,119650,Diesel,Automatic,13.42,1442,Third,4.9
+18,162489,Diesel,Manual,12.26,1169,Third,15.42
+3,154765,CNG,Manual,21.4,1909,Third,12.79
+17,125956,Electric,Automatic,27.24,1586,Fourth & Above,5.67
+8,120598,CNG,Manual,19.54,2283,Second,19.0
+10,189233,Petrol,Automatic,29.89,1749,Second,7.61
+2,138241,Petrol,Manual,23.58,2148,Fourth & Above,10.16
+19,158124,Petrol,Manual,11.48,1321,Fourth & Above,10.0
+9,13036,CNG,Automatic,29.86,2752,Second,6.86
+7,36778,CNG,Manual,18.16,1154,Fourth & Above,11.34
+4,163806,CNG,Automatic,15.75,1746,Fourth & Above,12.36
+18,159245,Petrol,Manual,21.16,2282,Third,18.86
+13,166475,Electric,Manual,16.09,2447,Fourth & Above,19.36
+11,142416,Diesel,Manual,11.73,1335,Third,4.81
+4,23800,CNG,Manual,10.03,2114,First,15.23
+4,30372,Electric,Manual,18.99,1749,Third,22.51
+10,66516,Diesel,Automatic,26.74,1420,Third,3.61
+5,25538,Diesel,Manual,21.45,1227,Fourth & Above,12.35
+9,68918,Diesel,Automatic,29.98,2525,Second,19.01
+3,151045,Electric,Manual,15.74,1344,First,15.68
+17,76155,Electric,Automatic,15.61,1623,First,3.41
+3,64500,Petrol,Manual,13.19,1802,First,10.52
+16,172647,Electric,Automatic,13.28,1458,Second,13.17
+4,178333,Electric,Automatic,15.7,2858,First,24.9
+18,115659,Electric,Manual,25.86,1530,First,5.29
+17,32716,Diesel,Manual,28.12,2632,Second,24.58
+7,139308,CNG,Manual,29.5,1208,First,10.03
+5,151920,Petrol,Automatic,14.65,883,Fourth & Above,5.81
+12,7352,CNG,Automatic,27.63,1506,Fourth & Above,10.94
+17,138004,CNG,Manual,16.57,2761,Third,15.74
+13,81449,Electric,Manual,12.26,2247,Third,6.12
+3,13556,Petrol,Automatic,27.4,933,Third,7.99
+9,91836,CNG,Automatic,22.72,1587,Fourth & Above,21.51
+17,141570,CNG,Manual,13.29,1663,Fourth & Above,24.98
+17,55098,Petrol,Automatic,18.6,1466,Fourth & Above,8.64
+16,117169,Electric,Manual,15.75,1076,Third,4.57
+13,145641,CNG,Manual,24.74,2575,Third,20.04
+19,131060,Diesel,Manual,19.07,1681,Third,15.41
+17,192954,CNG,Automatic,29.79,2860,Third,3.41
+4,135544,Diesel,Automatic,11.09,2882,Third,23.72
+12,5340,Electric,Automatic,17.1,2037,Third,2.87
+9,180021,CNG,Automatic,19.64,958,Fourth & Above,16.01
+19,87302,Petrol,Manual,20.06,1933,Second,11.17
+12,198515,Petrol,Automatic,16.32,2651,Second,14.36
+9,5138,CNG,Manual,24.58,1078,Third,6.12
+7,136430,Electric,Manual,27.49,910,Second,17.51
+14,124619,Electric,Manual,28.77,1341,Second,24.03
+19,90376,Petrol,Automatic,26.1,1938,Fourth & Above,12.0
+15,104931,CNG,Manual,27.01,1159,Third,13.55
+16,166726,Electric,Manual,21.01,2038,Third,6.76
+5,161951,Petrol,Automatic,26.52,2556,Second,22.4
+3,86532,Diesel,Manual,16.07,1754,Third,24.31
+12,60778,CNG,Automatic,17.97,2967,Third,19.87
+4,42772,Diesel,Automatic,16.34,1775,Third,14.03
+16,63478,Diesel,Automatic,19.35,1712,Third,23.96
+7,31762,Electric,Manual,15.71,1951,Second,4.69
+13,149355,Electric,Automatic,29.23,1522,First,12.48
+10,199994,Electric,Automatic,16.26,2511,Second,13.9
+7,175492,CNG,Automatic,11.96,1124,Fourth & Above,12.81
+14,60568,Diesel,Automatic,20.54,2329,First,20.26
+5,90090,CNG,Manual,11.14,2349,First,17.09
+3,25219,Electric,Automatic,12.21,1873,First,4.04
+11,62169,Diesel,Manual,14.39,2745,Second,9.31
+11,79965,CNG,Automatic,19.29,2407,Fourth & Above,9.14
+18,182912,CNG,Manual,18.67,2916,Second,14.58
+15,180767,Petrol,Automatic,25.99,1190,Fourth & Above,8.0
+12,89754,CNG,Manual,24.79,815,Second,3.81
+9,82988,Electric,Automatic,18.53,1645,Second,16.69
+10,194414,CNG,Manual,16.67,1668,Second,21.42
+12,155023,Diesel,Manual,16.33,1367,First,23.36
+17,137379,CNG,Manual,25.48,2979,Second,24.34
+6,85388,Petrol,Automatic,11.04,2819,Fourth & Above,19.75
+7,95768,Diesel,Manual,10.26,2446,Fourth & Above,4.35
+14,40428,Diesel,Manual,25.91,1156,Fourth & Above,21.47
+13,97021,Petrol,Manual,19.54,2456,First,10.6
+8,123418,Electric,Manual,12.62,835,Second,18.52
+10,175047,Diesel,Automatic,14.71,1827,Second,13.75
+9,137212,Electric,Manual,28.65,2891,Third,20.89
+18,160914,Diesel,Manual,27.19,913,First,11.21
+2,31421,Diesel,Manual,24.2,2572,Fourth & Above,2.48
+5,6708,Electric,Automatic,19.64,1997,Fourth & Above,14.36
+5,139702,Diesel,Manual,20.41,2078,Second,5.11
+6,155667,Electric,Manual,29.5,1265,Fourth & Above,24.17
+19,81021,Petrol,Manual,29.32,2287,Second,13.65
+8,164380,Electric,Manual,14.31,1646,Second,14.29
+16,49789,Petrol,Automatic,26.22,1301,Third,22.77
+13,191762,Diesel,Manual,13.94,1240,First,15.99
+1,31086,Electric,Manual,14.27,2916,Second,8.27
+17,21859,Diesel,Automatic,23.52,1125,Second,8.11
+7,12684,Electric,Automatic,18.1,2565,Second,13.04
+13,96088,Petrol,Automatic,28.63,866,Third,21.8
+4,137279,Petrol,Manual,11.78,1103,Second,20.07
+4,51099,Electric,Automatic,20.23,1771,First,24.11
+6,71093,Petrol,Manual,28.37,1283,First,2.73
+19,165761,Diesel,Automatic,28.08,1728,Fourth & Above,7.44
+12,53651,Diesel,Manual,13.13,2240,First,2.92
+7,18893,CNG,Automatic,17.33,948,Fourth & Above,19.03
+10,71418,Petrol,Manual,22.38,1924,First,4.38
+19,130074,Diesel,Automatic,13.19,895,Fourth & Above,3.4
+7,108065,Electric,Manual,29.36,1081,Second,14.48
+3,135351,Petrol,Manual,28.29,1328,Third,10.88
+13,196083,Diesel,Manual,13.34,2442,Third,18.16
+13,43635,Petrol,Manual,12.42,1379,Third,12.69
+18,192187,Electric,Manual,11.71,2463,Second,11.21
+8,100071,Diesel,Manual,28.19,2431,Third,11.21
+9,83518,CNG,Manual,13.87,1609,First,21.93
+7,111233,CNG,Manual,18.33,1492,Fourth & Above,10.49
+1,108651,Petrol,Automatic,18.98,1034,Second,9.0
+3,77805,Electric,Manual,21.98,1751,Third,9.12
+13,195026,Diesel,Manual,11.43,2654,First,5.72
+17,164136,Electric,Automatic,14.54,2160,First,21.66
+1,127813,Diesel,Manual,28.63,1831,Second,4.52
+6,84063,Petrol,Automatic,28.17,2266,Second,22.81
+6,7454,Diesel,Manual,25.63,2764,Third,7.8
+12,25878,Electric,Automatic,10.39,1338,Fourth & Above,22.59
+13,187170,Electric,Automatic,16.54,1619,Third,19.98
+13,198226,Petrol,Manual,22.56,2481,Third,14.97
+15,149063,Electric,Automatic,15.5,1071,Second,17.07
+16,73344,Diesel,Manual,28.19,1828,Third,8.82
+11,109946,Petrol,Manual,22.68,2722,Third,14.78
+5,41593,Diesel,Manual,11.44,2042,Fourth & Above,8.02
+4,41304,Electric,Manual,28.18,1941,First,10.65
+3,166458,Petrol,Automatic,29.16,1392,First,19.35
+19,191292,Diesel,Manual,11.55,2405,Fourth & Above,6.85
+18,118613,Electric,Automatic,20.65,914,First,21.13
+15,157155,Electric,Automatic,16.07,2477,Third,10.02
+9,23354,CNG,Manual,17.86,2245,Fourth & Above,13.77
+17,27190,Electric,Manual,13.59,1006,Fourth & Above,23.61
+14,11142,Diesel,Manual,21.56,911,Second,17.35
+15,164470,Petrol,Manual,29.16,2240,First,16.49
+1,188043,CNG,Automatic,20.06,2682,Second,18.08
+3,46862,Electric,Manual,11.66,984,Third,23.03
+16,189482,Electric,Automatic,22.4,2564,Fourth & Above,6.96
+11,155575,Electric,Manual,16.8,1700,Third,15.72
+12,130438,Diesel,Manual,27.12,1020,First,10.61
+10,53456,CNG,Manual,18.69,2267,Second,1.28
+16,105167,Diesel,Manual,13.86,1893,First,4.01
+8,87035,CNG,Automatic,13.82,2812,Third,8.8
+6,13016,Petrol,Automatic,25.38,1400,Second,14.56
+12,7384,Diesel,Manual,15.31,1960,First,22.16
+8,198392,Diesel,Automatic,25.34,1303,Third,19.99
+4,151144,Petrol,Automatic,14.12,2978,First,14.28
+8,107239,CNG,Manual,16.43,1017,Fourth & Above,2.77
+18,116431,Electric,Manual,19.31,2298,Second,7.86
+5,85018,Petrol,Automatic,28.86,1411,Second,9.8
+9,45510,Electric,Automatic,28.63,1952,Second,15.92
+4,185005,Electric,Automatic,14.14,856,Fourth & Above,2.56
+17,26826,Petrol,Automatic,17.16,2004,Second,13.72
+9,73026,CNG,Manual,12.99,1045,Fourth & Above,22.64
+1,126668,Electric,Manual,20.2,943,Second,17.93
+13,161590,Petrol,Automatic,19.21,1167,First,20.13
+16,29045,Diesel,Manual,28.02,2282,First,17.36
+13,186948,Diesel,Automatic,28.6,1415,First,5.96
+14,95102,Diesel,Automatic,17.67,2681,First,3.65
+3,56919,Petrol,Manual,19.83,2388,Fourth & Above,20.91
+6,104441,Diesel,Automatic,27.92,1498,Third,17.69
+18,163175,Electric,Automatic,26.13,1675,Third,14.8
+19,172260,Diesel,Manual,10.07,2485,First,5.54
+5,141917,Diesel,Manual,16.4,1744,Third,15.48
+15,172746,Electric,Automatic,18.44,1722,Third,1.75
+2,123325,Diesel,Automatic,14.59,2546,Second,3.85
+10,24337,Electric,Manual,13.99,824,Fourth & Above,8.49
+18,158385,Diesel,Automatic,10.76,2487,First,11.65
+13,163015,Electric,Automatic,22.87,2359,Third,3.89
+5,82949,Diesel,Manual,15.25,1883,Third,3.88
+1,5276,Electric,Manual,11.05,1233,First,18.42
+1,56151,Petrol,Manual,14.62,1889,Second,14.67
+18,153683,Electric,Manual,26.04,2751,First,13.81
+15,148016,Diesel,Manual,27.03,2953,Second,11.86
+17,57887,Diesel,Manual,19.66,895,Third,24.44
+11,86442,CNG,Automatic,18.32,967,Fourth & Above,2.2
+17,54847,Electric,Automatic,29.56,2889,Second,5.34
+13,63653,Petrol,Manual,14.01,2702,Second,16.54
+1,61622,Electric,Manual,14.31,2951,First,4.27
+2,32810,Electric,Automatic,15.84,2668,Third,15.15
+9,82842,Petrol,Automatic,13.46,2798,Fourth & Above,14.63
+3,127225,Electric,Automatic,17.59,1933,First,24.3
+1,15503,Petrol,Manual,28.22,2810,First,22.2
+16,89761,Petrol,Manual,22.31,1548,Fourth & Above,23.69
+6,173048,Electric,Automatic,18.24,2691,Third,3.73
+17,131439,Electric,Manual,28.69,1630,Fourth & Above,21.84
+5,16590,Diesel,Manual,10.97,848,First,4.1
+5,146958,Diesel,Manual,14.21,914,First,16.19
+6,148938,CNG,Automatic,21.32,1978,Second,18.28
+3,71624,CNG,Automatic,22.31,2472,Fourth & Above,4.86
+5,168864,Electric,Manual,10.79,870,Fourth & Above,16.18
+5,145836,Petrol,Manual,18.06,2159,Fourth & Above,2.26
+10,125356,CNG,Manual,22.98,866,First,8.04
+10,47727,Electric,Manual,23.96,2316,Third,23.11
+19,83471,CNG,Manual,22.76,2473,First,5.12
+17,13068,Petrol,Automatic,16.41,2577,Second,2.57
+14,121923,Electric,Manual,11.87,1766,First,11.65
+9,143367,Petrol,Manual,18.54,2589,First,21.41
+14,177232,Electric,Manual,12.58,1412,First,2.84
+1,16390,CNG,Automatic,28.95,2686,Second,9.53
+19,111752,Diesel,Automatic,19.5,2422,Fourth & Above,22.59
+13,156203,CNG,Manual,16.35,1496,Third,3.84
+13,99754,CNG,Automatic,25.33,2037,Third,8.46
+4,80969,Diesel,Automatic,19.96,1048,Second,19.68
+1,151110,Diesel,Automatic,16.2,1437,Fourth & Above,14.04
+17,188399,Electric,Automatic,26.24,1749,Fourth & Above,20.98
+8,82064,Electric,Automatic,27.34,2704,Second,3.68
+2,26281,Petrol,Automatic,23.46,1911,First,23.09
+8,59189,Petrol,Manual,10.94,975,Fourth & Above,23.44
+7,53511,CNG,Automatic,21.33,1522,Third,4.73
+2,127115,Diesel,Automatic,25.27,1570,Second,1.81
+3,13605,Petrol,Manual,12.73,2747,Third,24.76
+18,105318,CNG,Manual,14.57,1502,First,12.57
+12,137453,Diesel,Manual,27.65,2928,Second,14.73
+1,24810,Electric,Manual,10.4,1726,Third,15.78
+12,160394,CNG,Automatic,25.05,937,Third,19.95
+5,46869,Electric,Automatic,19.48,1949,First,20.49
+17,37955,Petrol,Automatic,18.94,2740,Second,5.65
+16,66388,Petrol,Automatic,10.14,2691,Fourth & Above,6.68
+15,15207,Diesel,Manual,26.39,2678,Fourth & Above,22.04
+15,164292,CNG,Automatic,17.2,2053,Third,20.67
+5,27031,Electric,Automatic,20.82,2283,First,15.82
+14,85807,Diesel,Manual,23.55,2168,Third,24.87
+2,76312,Petrol,Automatic,24.05,1109,First,18.64
+11,64766,Petrol,Automatic,29.12,1843,Fourth & Above,6.18
+19,148521,CNG,Automatic,20.63,2470,Third,21.32
+7,94833,Electric,Automatic,17.99,2364,Third,10.95
+6,192771,CNG,Manual,29.07,2383,First,1.87
+2,116041,Electric,Manual,22.84,2300,Second,8.71
+6,121185,Electric,Manual,15.96,1569,First,19.33
+18,182164,CNG,Manual,12.53,815,Second,24.04
+2,199743,Diesel,Manual,26.85,1405,Fourth & Above,7.63
+18,15350,CNG,Automatic,17.24,2181,Third,6.92
+15,105859,CNG,Automatic,23.21,1612,Third,14.53
+19,73487,Petrol,Manual,19.42,2790,First,20.48
+2,153694,Petrol,Manual,13.98,1694,First,18.92
+6,128853,CNG,Manual,22.03,2367,Fourth & Above,14.44
+1,58117,CNG,Automatic,11.21,1213,Fourth & Above,16.15
+15,194466,Petrol,Manual,18.27,824,Second,6.81
+10,106084,Electric,Automatic,20.93,2804,Fourth & Above,11.38
+19,28782,CNG,Automatic,18.72,1115,Fourth & Above,7.13
+17,33454,Diesel,Automatic,24.97,1370,Fourth & Above,22.23
+5,72904,Diesel,Automatic,26.56,1524,Fourth & Above,3.7
+4,134936,Diesel,Manual,25.42,2649,Second,17.31
+10,151664,CNG,Automatic,10.78,2099,Fourth & Above,7.25
+17,158245,Electric,Automatic,13.88,2753,Second,12.41
+10,169276,Electric,Manual,20.73,1188,First,8.19
+17,171668,Petrol,Automatic,28.7,1243,Third,8.76
+5,170396,CNG,Automatic,26.7,1770,First,7.25
+2,127258,Electric,Automatic,26.85,2764,Fourth & Above,19.07
+6,116668,CNG,Manual,16.06,2628,Third,9.78
+2,197274,Petrol,Automatic,18.59,1103,Fourth & Above,18.43
+13,129184,Petrol,Automatic,19.41,1563,Fourth & Above,11.95
+11,166822,Petrol,Manual,13.15,2773,First,14.13
+11,21566,Diesel,Manual,10.62,1615,Fourth & Above,14.04
+16,143262,CNG,Automatic,28.94,2959,First,24.42
+11,43333,Petrol,Automatic,14.81,1677,Fourth & Above,9.81
+19,126929,CNG,Manual,14.8,1502,Second,5.98
+15,94571,Diesel,Automatic,11.67,1743,Third,22.88
+16,125263,Diesel,Manual,28.57,2860,First,5.2
+11,137661,Petrol,Automatic,21.59,1102,First,21.03
+16,30235,Petrol,Manual,23.34,2379,Third,4.61
+8,5159,Electric,Automatic,28.23,959,First,16.81
+4,148217,CNG,Manual,16.91,2003,Third,4.61
+8,167993,Petrol,Manual,22.43,1991,Second,23.15
+4,109859,Electric,Manual,10.78,1973,Fourth & Above,14.56
+3,152309,CNG,Manual,13.74,2863,Second,8.9
+3,112507,Petrol,Manual,26.62,1914,Fourth & Above,4.37
+18,144316,Electric,Automatic,25.34,1943,Third,9.91
+19,19743,Electric,Automatic,17.01,2779,Second,17.92
+19,51101,CNG,Manual,17.54,1052,Fourth & Above,10.24
+5,126534,Electric,Automatic,20.67,2232,Third,6.91
+18,89227,CNG,Automatic,10.0,2878,Fourth & Above,14.86
+10,192450,CNG,Automatic,14.82,1530,First,11.03
+6,76126,CNG,Automatic,14.16,1297,First,4.98
+1,61071,Diesel,Automatic,15.01,2228,Third,4.7
+5,79763,Electric,Automatic,26.12,1347,Fourth & Above,17.98
+9,148309,CNG,Manual,15.59,1760,First,24.39
+12,151721,Petrol,Automatic,13.83,931,Second,6.59
+14,173785,Diesel,Automatic,20.09,2147,Fourth & Above,19.56
+2,181481,Diesel,Automatic,27.31,1657,Fourth & Above,3.1
+17,184838,Electric,Manual,14.83,1955,First,10.16
+14,51154,CNG,Automatic,11.57,2832,First,13.16
+13,12016,Electric,Automatic,17.13,1320,Third,7.45
+9,184760,Diesel,Automatic,24.95,829,Fourth & Above,13.71
+15,94678,CNG,Manual,21.01,2851,Second,22.18
+15,117056,Petrol,Automatic,26.34,1308,First,23.67
+11,59238,CNG,Manual,29.19,2060,Fourth & Above,3.41
+16,63608,Diesel,Automatic,25.85,2358,First,7.52
+17,94081,Petrol,Manual,22.08,815,Third,24.5
+4,167969,CNG,Manual,19.87,1796,Fourth & Above,7.49
+1,55961,Petrol,Manual,10.8,2407,Fourth & Above,17.62
+8,180829,Petrol,Automatic,29.69,2639,Third,7.08
+17,31917,Diesel,Manual,17.67,2816,Second,9.55
+3,158808,Petrol,Manual,13.04,2053,First,5.59
+15,32990,Electric,Manual,23.33,2543,Third,21.55
+15,67551,Diesel,Manual,15.69,1888,Fourth & Above,22.18
+14,194233,Electric,Automatic,21.72,2161,Third,8.13
+14,158512,Petrol,Automatic,21.74,1177,Fourth & Above,20.77
+2,171277,Electric,Automatic,18.91,1998,Third,9.6
+13,85811,CNG,Automatic,26.72,1275,Second,3.38
+14,60103,Petrol,Manual,15.3,2089,Fourth & Above,19.19
+19,177699,CNG,Automatic,18.97,1128,Third,15.31
+7,111122,Electric,Manual,20.75,2639,Second,7.59
+3,24008,CNG,Automatic,23.27,1986,Second,7.07
+15,37402,Petrol,Automatic,25.68,1237,First,24.41
+14,189456,CNG,Automatic,17.9,2190,Fourth & Above,21.7
+11,141865,Electric,Manual,22.92,2573,First,20.44
+15,141643,Electric,Automatic,13.01,2022,Second,4.07
+13,152281,Electric,Automatic,28.65,2323,First,19.12
+18,118550,Petrol,Automatic,17.66,2863,First,6.15
+6,179220,Electric,Manual,24.59,2644,Third,24.46
+3,96218,Petrol,Automatic,10.41,2119,First,2.25
+19,138296,CNG,Automatic,14.1,1667,Second,9.45
+15,184767,Electric,Manual,19.74,2611,First,11.29
+5,125779,CNG,Manual,27.57,1783,Fourth & Above,20.78
+10,134714,Diesel,Automatic,20.55,2062,Third,19.39
+7,37441,CNG,Automatic,28.6,2124,Second,10.0
+17,175201,Diesel,Automatic,19.68,2853,First,14.57
+7,67368,CNG,Manual,19.81,1818,Fourth & Above,21.05
+12,97122,Petrol,Manual,12.39,2589,Second,1.44
+17,49760,CNG,Manual,26.05,1606,First,20.25
+13,28478,Petrol,Automatic,14.94,2693,Third,23.73
+4,132881,Petrol,Manual,27.99,2209,First,1.77
+10,76854,Electric,Automatic,28.22,2118,Second,2.09
+3,99230,Petrol,Manual,28.87,1941,Second,9.27
+9,90716,Diesel,Manual,20.4,1204,Second,3.11
+13,148252,Electric,Manual,23.54,2586,Fourth & Above,12.5
+18,103538,Electric,Automatic,25.57,1393,First,18.49
+15,20372,CNG,Automatic,12.62,811,First,14.61
+4,34796,Petrol,Automatic,22.02,2117,First,5.71
+15,194344,Petrol,Automatic,10.69,2342,Third,16.72
+2,103826,Diesel,Manual,19.95,2925,Fourth & Above,17.44
+15,125592,CNG,Automatic,13.1,1413,Fourth & Above,23.38
+8,98635,CNG,Manual,13.66,2786,Third,4.52
+8,116022,Electric,Automatic,17.3,1668,Fourth & Above,17.62
+17,59040,Electric,Automatic,18.65,1611,Third,22.87
+12,80357,Electric,Manual,22.46,2622,Second,13.04
+19,83356,Diesel,Manual,11.49,1566,Second,9.68
+10,21211,Diesel,Automatic,20.07,881,Fourth & Above,5.1
+9,110426,Electric,Automatic,13.65,2544,Second,21.8
+5,10842,CNG,Manual,21.48,1321,Second,10.46
+6,199187,Diesel,Manual,22.75,2127,Second,23.2
+2,71852,CNG,Manual,21.13,1793,First,21.35
+13,130737,CNG,Manual,24.77,2325,Second,10.04
+6,50968,Petrol,Manual,16.71,2269,First,14.77
+5,22508,Electric,Automatic,25.3,2313,Third,1.65
+1,158077,Petrol,Automatic,18.66,1580,Third,7.32
+6,59575,Electric,Automatic,19.68,2251,Third,18.05
+6,155043,Electric,Automatic,22.96,1358,Third,17.27
+16,161671,CNG,Manual,10.37,2938,Third,9.48
+4,71914,Electric,Manual,23.08,2837,Second,20.41
+11,72055,CNG,Manual,22.37,2553,Second,6.66
+9,92697,CNG,Automatic,16.2,1659,Second,12.07
+3,111239,Electric,Manual,11.72,2412,Third,12.34
+19,128106,CNG,Manual,11.82,1355,Third,9.18
+8,10355,CNG,Automatic,28.46,955,First,23.91
+5,59120,CNG,Automatic,23.79,2849,Fourth & Above,17.72
+4,43342,Diesel,Automatic,12.54,2180,Second,13.94
+6,7257,CNG,Manual,17.13,1624,Fourth & Above,13.25
+2,32364,Diesel,Manual,21.85,2392,Third,4.82
+11,161044,Diesel,Automatic,26.71,1881,Third,9.93
+4,116715,CNG,Automatic,10.87,2003,Third,17.15
+15,31654,CNG,Manual,14.73,1292,Fourth & Above,23.19
+6,86423,Diesel,Automatic,27.79,1468,First,20.6
+17,34320,Diesel,Manual,10.18,874,Third,8.21
+6,25808,CNG,Automatic,14.03,1170,First,11.41
+19,57389,CNG,Automatic,29.18,1386,First,2.99
+2,123581,Electric,Automatic,22.27,1128,Second,3.45
+15,132927,Diesel,Manual,15.23,1389,Fourth & Above,12.29
+11,39773,Diesel,Manual,11.34,2590,Third,13.73
+8,187240,Electric,Automatic,10.56,1576,First,7.34
+19,163819,Diesel,Manual,14.89,2822,Fourth & Above,16.43
+13,81396,Petrol,Automatic,27.63,1378,Fourth & Above,17.88
+12,112692,Diesel,Automatic,18.32,1020,Third,8.18
+5,62505,Electric,Manual,24.41,1987,Second,19.2
+6,90896,Petrol,Manual,28.37,2303,Second,5.93
+4,23135,CNG,Manual,18.16,2507,First,14.06
+19,95887,Electric,Manual,13.83,2545,Second,20.3
+1,127118,Electric,Automatic,20.34,987,Second,13.89
+17,52377,CNG,Manual,28.16,2014,Second,22.79
+12,159626,Electric,Manual,26.09,1909,Fourth & Above,2.4
+15,67491,Diesel,Automatic,11.32,1643,Third,15.12
+1,191693,CNG,Automatic,23.85,1330,Fourth & Above,14.48
+14,63283,Electric,Automatic,21.44,1870,Fourth & Above,16.85
+6,21923,CNG,Automatic,28.15,1762,Third,21.0
+5,52591,CNG,Manual,12.45,1969,Fourth & Above,18.42
+11,67261,CNG,Manual,20.68,2205,First,19.97
+4,59336,Petrol,Automatic,27.59,1316,First,7.93
+13,79083,Electric,Automatic,18.2,2688,Fourth & Above,10.3
+11,65948,Petrol,Manual,19.64,2291,Second,16.04
+3,169074,Electric,Manual,11.41,1917,Fourth & Above,14.28
+1,31672,Diesel,Manual,15.56,932,Second,24.07
+6,9213,Diesel,Manual,16.49,1113,Fourth & Above,5.48
+18,146365,Diesel,Manual,28.9,1390,First,9.43
+10,191932,Electric,Automatic,15.65,2343,Second,14.75
+5,67507,CNG,Automatic,19.22,2685,First,21.83
+10,62134,CNG,Automatic,23.43,2426,Fourth & Above,23.3
+12,138172,Petrol,Automatic,13.24,1547,Third,9.06
+2,198069,Petrol,Manual,19.73,2297,Second,2.61
+13,33172,Diesel,Automatic,24.77,1600,Second,11.12
+8,25132,Petrol,Manual,27.34,2297,Fourth & Above,10.46
+2,23199,Electric,Manual,22.53,2179,Fourth & Above,24.68
+1,41609,Electric,Manual,23.38,1479,Second,11.35
+5,179037,Petrol,Manual,12.53,2961,Third,8.34
+9,144088,Petrol,Manual,28.92,1696,Fourth & Above,9.77
+17,175851,Petrol,Manual,12.65,2346,Fourth & Above,10.53
+9,36881,Petrol,Manual,25.49,2593,Fourth & Above,20.72
+11,29472,Diesel,Automatic,15.3,2912,Third,2.94
+15,187885,Diesel,Manual,28.67,1483,Second,8.6
+6,172093,Petrol,Automatic,24.4,2095,First,24.19
+3,59131,Electric,Automatic,25.08,2485,Fourth & Above,4.67
+17,160159,Diesel,Manual,14.38,2185,Third,18.82
+5,17828,Electric,Manual,18.86,2993,Second,9.55
+12,197682,CNG,Automatic,22.36,1742,Second,14.96
+18,101664,Electric,Automatic,25.4,2109,Third,3.39
+14,137473,Petrol,Automatic,12.08,1833,Fourth & Above,8.35
+11,20193,CNG,Automatic,29.25,2420,First,13.02
+9,180936,Diesel,Manual,27.8,1608,Fourth & Above,6.56
+2,156379,Diesel,Manual,15.41,970,Second,14.0
+12,107518,CNG,Manual,26.46,2353,First,6.27
+3,24611,Electric,Automatic,20.37,2395,Fourth & Above,16.6
+3,179863,Diesel,Manual,19.24,2423,First,22.7
+1,148022,Petrol,Automatic,16.29,826,Third,3.05
+8,81240,CNG,Manual,21.62,1813,Fourth & Above,6.2
+8,7745,Petrol,Automatic,24.6,1891,Second,21.27
+11,60243,CNG,Manual,18.22,1207,Second,16.16
+9,8866,Diesel,Manual,22.58,1932,First,2.89
+5,168317,Electric,Automatic,23.99,873,Third,12.67
+14,180796,CNG,Automatic,24.22,1479,Fourth & Above,6.03
+3,133681,CNG,Automatic,11.04,2191,Third,5.78
+5,76354,Petrol,Automatic,27.19,1648,Third,23.58
+5,56374,Diesel,Automatic,19.17,1669,First,19.28
+19,119397,Petrol,Manual,15.25,1036,First,17.71
+14,129577,Diesel,Automatic,14.84,1705,Fourth & Above,6.73
+4,166188,Petrol,Manual,19.66,1418,Second,3.85
+13,86029,CNG,Manual,27.74,1832,Fourth & Above,21.9
+10,98574,Petrol,Manual,17.57,2113,Third,1.14
+18,156519,Electric,Manual,24.99,1646,First,10.31
+8,35431,Diesel,Manual,11.94,2723,Third,7.66
+8,153980,Diesel,Automatic,19.52,1433,First,14.69
+7,34336,CNG,Automatic,29.83,1817,Second,7.01
+8,45992,Diesel,Manual,25.41,807,Third,8.47
+14,60350,Electric,Manual,14.21,2192,First,21.4
+19,74561,Petrol,Automatic,20.03,1868,Fourth & Above,15.48
+6,56955,CNG,Automatic,14.67,2580,Fourth & Above,4.5
+1,66240,Electric,Manual,18.19,2442,Fourth & Above,18.44
+15,156165,Diesel,Automatic,25.6,2016,Third,5.98
+1,142227,Diesel,Automatic,25.42,1648,First,11.39
+17,51607,Electric,Automatic,14.56,2180,First,16.52
+1,169559,Petrol,Manual,28.44,861,First,7.53
+15,191740,Petrol,Automatic,21.85,1885,Third,10.22
+2,157035,CNG,Manual,17.6,2617,First,18.62
+14,186196,Diesel,Manual,20.04,1432,Second,23.51
+8,57870,Electric,Manual,22.1,1591,Third,13.7
+8,192619,Petrol,Manual,21.2,2100,Second,1.24
+19,69110,CNG,Manual,19.73,2254,Second,9.12
+7,189626,Diesel,Automatic,20.1,1938,Fourth & Above,10.57
+19,157008,Diesel,Manual,13.53,2511,Third,9.14
+6,121895,CNG,Manual,26.25,1324,First,11.47
+6,9426,CNG,Manual,20.84,2820,Second,16.18
+3,32606,Petrol,Automatic,12.62,1698,Third,3.91
+7,183904,Electric,Automatic,25.32,1586,First,7.54
+19,33151,Diesel,Automatic,28.65,2160,Fourth & Above,13.18
+8,16308,Electric,Automatic,28.95,972,Third,8.57
+10,198594,Diesel,Automatic,17.38,1799,Third,24.79
+15,181743,Diesel,Automatic,12.71,2610,Third,11.35
+15,95306,Electric,Automatic,20.37,863,First,21.88
+1,111984,CNG,Manual,12.25,2145,Second,22.52
+7,7204,Petrol,Manual,28.68,1774,Second,21.06
+4,97769,Diesel,Automatic,13.67,865,Third,2.13
+6,92265,CNG,Manual,15.06,2666,Third,23.75
+1,36131,Diesel,Manual,18.13,2422,First,4.09
+5,57428,Petrol,Automatic,17.66,1257,Fourth & Above,1.83
+1,38870,Diesel,Manual,25.89,2402,Third,10.94
+4,108547,Petrol,Manual,19.13,2757,Third,5.67
+2,54067,Petrol,Automatic,13.42,2540,Fourth & Above,5.42
+10,194657,Diesel,Manual,15.34,2249,Third,7.91
+5,117217,Diesel,Automatic,20.18,2759,Second,6.96
+10,157679,Petrol,Automatic,12.95,2754,Third,17.44
+1,161040,CNG,Manual,22.23,1079,Second,5.48
+6,103934,Electric,Manual,21.31,1840,First,14.03
+13,147980,Petrol,Manual,24.29,1761,First,24.67
+15,162495,Diesel,Automatic,28.75,2742,Second,11.38
+4,79707,Diesel,Automatic,28.25,2017,Second,16.4
+13,66215,CNG,Automatic,28.92,1174,Fourth & Above,24.26
+15,191907,Electric,Manual,14.89,2711,Second,4.3
+8,54429,Petrol,Manual,12.63,834,Second,11.05
+5,87152,Petrol,Automatic,16.05,2192,Third,21.4
+15,113048,Electric,Manual,27.9,2876,Fourth & Above,23.38
+4,174530,Petrol,Manual,29.44,1574,Second,15.43
+12,182241,Electric,Automatic,27.19,1020,Second,4.44
+13,143731,Diesel,Automatic,12.2,2900,Second,22.64
+2,196686,Electric,Manual,28.95,2923,Third,5.19
+19,82240,Petrol,Automatic,18.47,1293,Third,9.47
+19,168865,Electric,Manual,10.19,2511,Third,10.01
+4,118688,CNG,Automatic,18.85,2964,First,11.73
+4,51473,Diesel,Automatic,10.92,1079,Third,19.96
+11,101762,Diesel,Automatic,20.88,1545,Second,20.25
+5,111956,Electric,Manual,16.77,2274,Third,18.27
+11,123452,Petrol,Manual,19.47,2657,Third,1.53
+10,191823,CNG,Automatic,22.26,2341,Fourth & Above,14.56
+8,131311,Diesel,Automatic,27.38,1896,Second,18.94
+6,190326,Diesel,Automatic,23.24,1859,Third,11.67
+6,12006,Petrol,Manual,18.68,2722,First,23.68
+8,79218,Petrol,Automatic,26.39,2805,Fourth & Above,20.77
+15,169912,CNG,Automatic,28.11,1296,Third,16.32
+14,37430,Electric,Automatic,12.4,843,Fourth & Above,2.5
+11,28091,Petrol,Automatic,20.64,2651,Fourth & Above,16.66
+12,169055,Electric,Manual,15.69,1253,First,22.88
+13,28989,CNG,Manual,10.94,1394,First,10.11
+8,80451,Electric,Automatic,23.37,2156,First,21.12
+18,23990,Diesel,Manual,27.26,1306,Second,8.52
+1,95270,Electric,Manual,13.26,1593,Fourth & Above,14.68
+15,85360,CNG,Manual,26.25,820,Third,16.56
+8,41081,CNG,Automatic,27.07,2199,First,17.27
+11,147105,CNG,Manual,28.29,1894,First,22.18
+12,113272,Electric,Manual,15.31,2227,Fourth & Above,6.63
+12,21241,Diesel,Manual,28.08,2385,Fourth & Above,7.3
+4,129932,Petrol,Automatic,16.41,2614,Fourth & Above,17.9
+16,10939,Diesel,Automatic,21.05,2220,Third,5.25
+4,118000,Electric,Manual,11.01,1136,Second,12.14
+5,183634,Electric,Manual,10.88,2467,Second,1.48
+5,40063,Petrol,Automatic,24.41,1709,First,4.38
+8,163117,Electric,Automatic,18.89,1075,Second,17.29
+10,180841,CNG,Manual,15.13,1691,Third,18.94
+17,52118,CNG,Manual,13.81,812,Second,3.77
+9,89703,CNG,Automatic,23.4,1826,Third,6.47
+19,157697,CNG,Automatic,10.01,1773,First,3.37
+14,133557,CNG,Manual,26.12,974,Fourth & Above,11.4
+8,32076,Electric,Automatic,11.58,2208,Third,4.03
+9,49605,Petrol,Manual,13.83,2425,Fourth & Above,11.5
+11,89565,Petrol,Manual,17.72,2743,First,18.57
+1,44121,CNG,Manual,19.7,1346,Third,17.4
+14,36433,Electric,Automatic,17.1,2861,Third,7.73
+5,48309,Diesel,Manual,16.41,2018,Second,17.17
+14,72468,Diesel,Manual,29.28,2220,Third,23.27
+4,180326,Electric,Automatic,22.83,2254,First,9.34
+1,72293,CNG,Automatic,10.47,2233,Fourth & Above,8.9
+19,101258,Petrol,Manual,18.6,802,Third,14.71
+8,173925,Electric,Manual,27.5,2642,First,6.89
+15,43405,Diesel,Automatic,16.03,1546,First,16.64
+15,48527,Diesel,Automatic,11.89,1671,Third,20.97
+9,82227,Diesel,Automatic,25.17,1294,Second,12.02
+9,136564,CNG,Manual,22.12,2214,Third,17.31
+10,144883,Diesel,Manual,21.41,1427,Third,16.65
+9,98344,Electric,Manual,11.07,1875,Second,1.93
+3,160344,Electric,Automatic,12.81,941,First,5.4
+11,52153,Diesel,Manual,22.45,2287,Third,22.44
+6,113042,Electric,Automatic,14.16,845,Second,23.53
+2,59110,Diesel,Manual,20.08,2857,Fourth & Above,19.73
+7,150051,Diesel,Automatic,20.9,1463,Fourth & Above,23.11
+18,33328,Petrol,Manual,15.67,1372,Second,8.35
+2,117911,CNG,Manual,28.97,2829,First,6.95
+17,17867,CNG,Automatic,26.85,2353,Second,10.22
+11,64234,Petrol,Automatic,24.45,2421,First,2.33
+12,30851,Petrol,Manual,11.56,1712,Fourth & Above,20.44
+19,36279,CNG,Automatic,12.12,1439,Third,24.62
+7,78402,Diesel,Automatic,19.86,1708,Second,20.78
+6,20449,Diesel,Manual,13.21,1668,Fourth & Above,14.32
+1,81221,CNG,Automatic,29.57,1829,Third,8.09
+17,94080,Diesel,Manual,13.17,1652,Fourth & Above,5.74
+11,10451,Petrol,Manual,19.75,1106,Second,9.74
+18,92178,Diesel,Automatic,17.28,2616,Second,17.01
+17,177388,Diesel,Automatic,22.79,1194,Third,11.73
+7,199136,Electric,Manual,12.58,1548,Second,23.42
+17,68761,Electric,Manual,18.61,1129,Fourth & Above,21.5
+9,43870,Electric,Manual,15.49,2897,Third,3.46
+17,101566,Diesel,Manual,27.76,2831,Third,4.16
+8,128749,CNG,Manual,10.81,1572,Fourth & Above,17.23
+17,128765,Petrol,Manual,28.27,2445,First,6.54
+7,129881,Diesel,Automatic,26.66,2532,Third,19.98
+1,166945,CNG,Automatic,15.95,1177,First,15.19
+13,133389,Diesel,Automatic,25.79,2587,Fourth & Above,6.52
+19,194699,Petrol,Manual,10.62,2423,Fourth & Above,12.49
+19,30372,Diesel,Automatic,29.34,1799,Third,10.75
+17,8642,Petrol,Manual,20.53,2648,Second,21.96
+13,164073,Diesel,Manual,16.07,2361,Third,1.77
+16,39064,Petrol,Automatic,17.25,1573,Second,22.5
+8,19122,Diesel,Manual,11.33,1883,First,16.65
+19,160892,Petrol,Manual,29.79,2603,Second,18.7
+18,73431,Electric,Manual,10.79,1898,Third,1.06
+1,60745,Diesel,Manual,23.1,2850,Second,16.08
+14,55081,Diesel,Manual,18.85,2398,Fourth & Above,15.12
+19,144783,CNG,Manual,28.98,1547,First,13.89
+15,154865,CNG,Automatic,14.92,2271,Fourth & Above,19.86
+18,144271,Petrol,Manual,20.64,2564,Fourth & Above,14.34
+2,81253,Diesel,Manual,19.65,2353,Fourth & Above,21.57
+17,41191,Petrol,Manual,24.06,2415,Fourth & Above,6.58
+18,15211,Electric,Manual,11.36,2308,Second,20.34
+6,116086,CNG,Automatic,13.88,1128,Fourth & Above,5.3
+19,199141,Petrol,Automatic,14.29,2210,Second,20.51
+4,192818,Petrol,Manual,24.76,925,Fourth & Above,23.57
+1,157614,CNG,Manual,13.78,1566,Third,9.06
+8,167384,Diesel,Manual,21.47,2373,Fourth & Above,13.72
+7,181314,Petrol,Automatic,14.3,2027,Third,16.8
+3,106971,CNG,Automatic,27.23,1995,Second,2.91
+10,98783,Diesel,Automatic,28.84,2558,First,12.86
+10,130681,Electric,Automatic,20.37,1016,Second,9.65
+19,92893,CNG,Manual,17.05,2159,First,21.94
+14,191460,Petrol,Automatic,14.68,2121,First,22.04
+2,163763,Electric,Automatic,11.0,1631,Fourth & Above,17.82
+1,82960,Diesel,Manual,15.37,981,First,16.74
+18,89388,Diesel,Manual,23.08,1133,Second,18.61
+7,27601,CNG,Automatic,20.67,1310,Fourth & Above,9.78
+8,154092,CNG,Automatic,28.88,1182,First,10.71
+1,144227,CNG,Automatic,17.93,2696,Second,14.29
+3,172849,Diesel,Automatic,23.88,1131,First,23.51
+8,24710,Electric,Manual,19.79,1988,First,18.38
+15,113714,Diesel,Manual,20.25,2065,Fourth & Above,14.22
+5,160604,Petrol,Automatic,15.36,1699,Fourth & Above,19.49
+3,133727,Diesel,Automatic,19.1,1441,Second,9.9
+19,154673,Petrol,Automatic,19.42,2050,Fourth & Above,18.53
+1,68227,Electric,Automatic,24.13,1433,Fourth & Above,10.86
+15,141039,CNG,Automatic,28.81,995,Third,7.71
+8,89289,CNG,Manual,16.59,2693,Third,15.63
+2,156094,Diesel,Manual,10.84,1257,Second,17.49
+3,179535,CNG,Manual,19.93,1629,Fourth & Above,12.02
+14,10722,Electric,Automatic,20.89,2856,Second,14.57
+14,163485,CNG,Automatic,13.37,2024,Third,17.66
+11,86050,Diesel,Manual,25.21,1686,Third,19.43
+16,88596,Electric,Manual,29.7,1192,Third,22.49
+4,71732,Petrol,Automatic,28.92,2475,Second,9.51
+5,148369,Diesel,Manual,13.94,2981,Fourth & Above,23.84
+14,73323,Petrol,Automatic,27.51,1715,First,16.29
+16,28816,Electric,Automatic,24.09,1734,Fourth & Above,19.9
+18,45695,Diesel,Manual,19.08,1154,Second,17.79
+7,155774,Diesel,Manual,20.81,2321,Third,5.93
+10,161314,Electric,Manual,26.99,1428,First,2.71
+7,60841,CNG,Automatic,19.6,1970,Second,18.43
+1,133498,Diesel,Automatic,17.46,1126,Third,13.27
+19,112096,Diesel,Manual,19.86,2238,Second,17.85
+16,97764,Petrol,Automatic,21.58,2221,First,12.44
+19,189646,CNG,Automatic,13.78,1926,Third,8.49
+4,90744,Petrol,Automatic,28.02,2580,Fourth & Above,7.84
+18,33482,Petrol,Manual,23.48,2331,Second,18.53
+2,14171,CNG,Automatic,22.67,2714,First,7.64
+1,105755,CNG,Manual,11.99,2032,Fourth & Above,18.15
+15,113125,Electric,Manual,22.08,2756,First,10.22
+5,135722,CNG,Automatic,12.42,1192,Second,19.5
+11,111082,Diesel,Manual,11.57,1625,First,4.43
+10,8696,CNG,Automatic,20.55,2712,Third,5.92
+2,131310,Electric,Manual,18.06,849,First,17.46
+3,156130,Electric,Manual,21.78,2196,Second,14.45
+12,156385,Electric,Automatic,11.78,1850,Third,5.89
+5,24149,CNG,Manual,18.62,1599,First,22.67
+5,135064,CNG,Manual,13.5,2592,First,7.62
+6,58521,Petrol,Manual,29.74,2163,Third,11.11
+9,50740,Petrol,Automatic,21.22,2365,Fourth & Above,5.85
+2,111611,Diesel,Automatic,23.75,800,Fourth & Above,10.31
+12,141028,Petrol,Manual,16.51,1819,Third,12.8
+3,71641,Diesel,Manual,11.89,2084,First,8.09
+12,68811,Electric,Manual,29.52,862,Fourth & Above,19.46
+17,188232,Petrol,Automatic,15.73,2669,Third,10.45
+10,187385,CNG,Automatic,18.48,951,Second,18.51
+14,68232,Petrol,Manual,23.0,1443,First,5.97
+17,20417,Diesel,Automatic,10.49,1425,Second,10.05
+18,160801,Petrol,Automatic,26.21,1016,First,1.19
+19,117492,Electric,Automatic,20.73,995,Fourth & Above,19.21
+17,35099,CNG,Automatic,15.56,1814,Second,16.02
+14,166033,Diesel,Manual,11.23,2321,Second,20.63
+9,148674,CNG,Automatic,13.25,2378,Third,11.93
+8,123474,CNG,Automatic,27.9,1880,Fourth & Above,20.19
+2,14256,Diesel,Manual,23.72,2327,Fourth & Above,16.54
+13,39681,CNG,Manual,15.0,1521,First,1.09
+7,96328,CNG,Automatic,11.31,2407,Third,7.09
+9,48361,Petrol,Automatic,23.81,2559,Third,12.85
+11,39540,CNG,Manual,21.45,2362,First,15.85
+14,162608,CNG,Manual,18.09,1439,Second,2.57
+4,89700,CNG,Manual,17.27,2953,First,17.92
+13,199115,CNG,Automatic,14.34,964,First,14.04
+2,83532,Diesel,Automatic,23.39,1014,First,13.62
+5,192647,Electric,Manual,29.41,1894,Third,8.01
+11,132626,Petrol,Automatic,13.51,889,First,15.28
+6,138943,CNG,Manual,21.94,2595,First,1.66
+18,51002,CNG,Automatic,18.48,2051,First,2.55
+10,54812,Diesel,Manual,18.93,1902,Fourth & Above,18.61
+4,158698,Electric,Manual,15.08,1407,Second,8.73
+9,196051,CNG,Automatic,26.5,1148,Second,9.33
+6,113946,Diesel,Automatic,19.71,1045,Second,6.0
+2,71668,Petrol,Automatic,20.87,1071,Second,11.69
+17,104003,Petrol,Automatic,16.1,2830,Third,2.25
+5,47998,CNG,Automatic,13.64,1202,Third,8.21
+6,199886,CNG,Automatic,11.72,2265,First,13.65
+12,109601,Electric,Manual,24.28,1995,Third,12.18
+10,181679,Electric,Automatic,13.92,1879,Second,24.99
+6,12812,CNG,Manual,23.8,2414,Fourth & Above,10.33
+8,66844,Diesel,Manual,17.81,1926,First,10.29
+2,138251,Electric,Automatic,18.32,1083,First,13.09
+12,179870,CNG,Manual,19.38,1316,Second,5.57
+13,79601,Electric,Manual,17.35,2101,Second,22.03
+7,144347,CNG,Automatic,12.01,1411,Second,14.73
+10,186646,Petrol,Automatic,16.19,1549,Third,5.61
+13,52857,CNG,Automatic,23.27,2092,First,20.04
+17,130555,Petrol,Manual,23.32,2656,Second,1.82
+14,25700,Electric,Automatic,15.72,1199,Fourth & Above,24.58
+2,175536,CNG,Automatic,19.2,2326,First,21.76
+11,178423,Electric,Automatic,13.87,2824,First,14.91
+1,98330,Petrol,Automatic,14.21,2933,Third,3.67
+19,149941,CNG,Manual,10.46,1119,First,6.17
+4,196387,Electric,Automatic,27.93,1855,Second,7.71
+19,157026,Petrol,Manual,14.21,1135,Second,6.78
+11,167627,Electric,Automatic,14.55,2898,Fourth & Above,12.94
+8,68353,Diesel,Manual,15.59,973,First,23.67
+11,181098,Petrol,Manual,12.55,2441,First,11.66
+4,105772,Petrol,Manual,22.79,1300,Third,16.88
+17,183048,Petrol,Automatic,11.5,2923,Second,17.53
+7,96502,CNG,Manual,12.68,2656,Fourth & Above,21.92
+8,118943,CNG,Automatic,22.9,2696,Second,1.81
+3,114850,CNG,Automatic,16.79,2463,First,10.7
+2,50095,Diesel,Automatic,24.16,2518,First,19.83
+15,150342,Diesel,Automatic,21.15,2578,Fourth & Above,20.56
+5,166980,Petrol,Automatic,15.12,1496,First,23.26
+1,20523,Diesel,Manual,23.02,1531,Fourth & Above,17.87
+4,67433,Electric,Automatic,12.33,1894,Fourth & Above,6.88
+15,183140,Petrol,Manual,20.73,1451,Second,13.14
+19,24991,Petrol,Manual,18.74,1894,Fourth & Above,1.78
+3,15775,Electric,Manual,15.36,845,First,16.53
+11,89995,Petrol,Manual,22.08,1870,Third,14.3
+17,197322,Diesel,Manual,27.43,2245,Third,17.0
+13,152745,CNG,Manual,29.98,2996,First,23.32
+11,127808,Electric,Manual,22.16,1255,Third,17.49
+2,163128,Diesel,Automatic,18.09,2462,Third,8.69
+9,142686,Electric,Manual,14.5,1765,Fourth & Above,5.77
+2,12415,Electric,Automatic,15.14,2820,Third,21.51
+9,179956,Petrol,Manual,19.59,1668,Third,5.66
+9,153036,Petrol,Manual,17.35,2328,Third,4.88
+8,173798,Diesel,Manual,28.28,1800,Second,5.96
+17,42044,Electric,Manual,17.37,1573,First,13.21
+1,193221,Petrol,Automatic,17.47,1926,Fourth & Above,3.98
+11,173616,Petrol,Automatic,17.67,1860,Third,23.51
+8,54976,Electric,Automatic,26.73,2477,First,24.19
+10,168324,Diesel,Manual,23.02,2343,Third,24.37
+7,8832,Diesel,Manual,22.28,1196,Second,1.94
+3,39148,Electric,Manual,16.68,906,Second,23.71
+3,197312,Diesel,Automatic,26.36,1753,Third,24.94
+18,117230,Petrol,Manual,10.77,2648,Third,23.62
+5,90076,Electric,Automatic,27.42,1733,Third,17.1
+12,189531,Petrol,Automatic,20.25,1087,Second,17.83
+12,43402,CNG,Manual,17.97,1505,Second,3.93
+19,193799,CNG,Manual,19.94,2843,First,21.98
+6,43578,Diesel,Automatic,23.35,2284,Fourth & Above,2.43
+2,95453,CNG,Automatic,10.26,1014,Fourth & Above,8.63
+12,158390,Petrol,Automatic,27.43,2104,Second,24.79
+19,80715,CNG,Manual,18.93,2777,Fourth & Above,11.14
+5,116435,Petrol,Manual,16.86,2282,Third,4.15
+12,156538,Diesel,Manual,12.76,2624,First,24.26
+17,100742,Diesel,Manual,18.79,1143,Second,24.62
+17,50475,Petrol,Manual,19.93,993,Second,5.49
+10,65142,CNG,Manual,18.07,957,Fourth & Above,21.76
+17,162636,Diesel,Automatic,23.57,1264,Third,10.37
+15,158484,Electric,Automatic,18.42,2951,First,10.15
+12,98526,Diesel,Automatic,29.23,2881,Fourth & Above,7.3
+16,56001,CNG,Manual,21.99,2549,Second,2.07
+19,62649,Electric,Automatic,26.15,1391,Second,7.43
+8,197029,CNG,Manual,12.19,2988,Fourth & Above,2.29
+17,171589,Petrol,Manual,17.95,1854,Third,23.18
+5,149228,Electric,Automatic,16.74,1683,First,16.88
+16,159136,CNG,Manual,21.39,862,First,22.28
+6,30711,Electric,Automatic,27.22,1910,First,18.21
+8,35106,CNG,Automatic,11.57,1103,First,4.15
+18,70458,Electric,Manual,11.45,1884,Third,23.57
+12,152661,CNG,Automatic,27.01,1195,Second,22.6
+15,135429,Petrol,Automatic,14.26,1133,Second,9.35
+9,106754,Electric,Automatic,23.38,1210,First,3.68
+13,143286,Electric,Automatic,20.86,1265,First,17.9
+15,131479,Electric,Manual,26.66,879,First,18.48
+10,163199,Electric,Automatic,12.5,1900,Fourth & Above,22.52
+16,141213,Petrol,Automatic,12.6,2777,Fourth & Above,2.26
+7,33884,Electric,Automatic,21.14,1532,Second,4.4
+17,7708,Diesel,Manual,28.93,2617,Second,15.36
+7,23375,Petrol,Automatic,18.3,2363,First,15.86
+14,20088,Diesel,Manual,16.54,2184,Fourth & Above,1.81
+15,62615,Electric,Automatic,22.13,2924,Third,10.53
+7,115138,CNG,Automatic,28.61,1987,Fourth & Above,15.02
+9,181118,Diesel,Automatic,26.74,1998,Second,18.71
+19,15014,Electric,Manual,29.91,2411,Fourth & Above,8.59
+16,139345,Diesel,Manual,10.45,921,Second,12.61
+8,183207,Electric,Manual,12.26,984,First,20.54
+18,107842,Electric,Manual,22.19,831,Third,23.89
+18,166953,Electric,Manual,26.41,1797,First,6.53
+7,83077,CNG,Manual,15.7,2786,First,7.07
+3,144784,Diesel,Automatic,14.78,1368,Third,23.56
+18,57874,Petrol,Manual,25.74,2195,Third,10.5
+10,74087,Petrol,Automatic,11.13,2479,Third,18.24
+7,17297,Petrol,Manual,17.39,1629,Second,15.69
+17,32128,Petrol,Manual,20.12,2419,First,7.85
+14,73368,Electric,Manual,21.21,1879,Second,16.69
+3,83958,Diesel,Automatic,24.57,1590,Third,16.73
+12,37920,Diesel,Manual,17.1,1793,Second,15.22
+13,147228,CNG,Manual,22.25,877,Third,3.39
+2,147180,Diesel,Automatic,21.71,907,Fourth & Above,24.88
+3,167917,Diesel,Automatic,20.95,2096,Third,10.61
+5,138872,Diesel,Automatic,22.81,2862,First,16.32
+11,178784,CNG,Automatic,15.19,1169,First,22.26
+8,138682,Petrol,Manual,11.69,2804,First,11.16
+12,82603,Diesel,Automatic,12.39,2503,Second,19.57
+7,38872,CNG,Manual,14.49,1240,First,24.32
+15,15728,CNG,Manual,20.0,1026,Third,9.61
+17,100102,Electric,Automatic,26.81,1422,Fourth & Above,10.73
+4,127049,CNG,Manual,24.03,1824,First,22.73
+13,25583,Petrol,Automatic,25.78,2376,Second,4.83
+18,90774,Diesel,Manual,17.02,2443,Fourth & Above,1.69
+1,143335,CNG,Automatic,18.09,1984,First,22.81
+16,131374,Petrol,Automatic,17.87,960,First,20.72
+13,155528,CNG,Automatic,13.84,1670,Fourth & Above,24.34
+10,96118,CNG,Automatic,11.22,2545,First,2.4
+12,70942,CNG,Automatic,21.82,1974,Second,4.75
+2,18689,CNG,Automatic,29.78,1243,Third,3.53
+3,169006,CNG,Manual,13.34,2590,Third,17.4
+10,38276,Petrol,Manual,10.93,2294,Fourth & Above,15.54
+2,106968,Diesel,Manual,25.59,1262,Third,9.62
+13,155945,Diesel,Automatic,15.05,1272,First,2.38
+13,18050,Diesel,Manual,26.59,879,First,16.35
+18,71216,Diesel,Automatic,24.08,1862,Second,14.68
+3,89040,Petrol,Manual,28.91,1039,Third,3.71
+7,26644,Electric,Manual,18.18,1356,Fourth & Above,22.81
+14,67021,Electric,Automatic,23.24,1389,First,5.77
+17,173197,Petrol,Manual,19.3,2160,Fourth & Above,18.84
+12,47291,Petrol,Manual,22.61,2684,First,22.24
+16,171132,CNG,Manual,18.99,2775,First,14.91
+12,137610,CNG,Automatic,13.77,2103,Second,6.92
+15,172248,CNG,Manual,20.16,1939,Third,8.42
+10,46520,Diesel,Automatic,20.57,2739,Second,22.26
+7,30675,CNG,Manual,26.21,1134,Third,8.16
+5,154359,Electric,Manual,24.71,1111,Fourth & Above,18.91
+1,5174,Diesel,Manual,23.28,1876,Third,24.76
+17,97268,CNG,Manual,12.27,833,Fourth & Above,25.0
+3,39998,Diesel,Automatic,24.41,2641,First,13.8
+13,189384,Electric,Manual,20.01,1185,Fourth & Above,20.84
+14,148184,CNG,Automatic,27.88,1048,Fourth & Above,24.77
+18,110410,Electric,Automatic,28.4,1934,First,9.99
+4,80225,Electric,Manual,11.1,2233,Fourth & Above,7.06
+18,49814,Electric,Manual,26.41,2002,Fourth & Above,3.74
+5,90091,CNG,Automatic,10.75,1593,First,4.38
+16,55719,Petrol,Automatic,17.34,1651,First,21.49
+1,134887,CNG,Manual,20.85,1175,First,15.13
+14,38919,Electric,Manual,12.96,1523,Third,21.97
+15,78155,CNG,Manual,24.93,2410,First,19.95
+9,76569,Electric,Manual,10.17,2713,First,17.17
+15,46328,Petrol,Manual,13.37,1001,Fourth & Above,15.62
+17,29618,Diesel,Automatic,21.62,2742,Second,2.16
+4,39675,Petrol,Manual,24.29,2131,Second,21.93
+12,23919,Petrol,Manual,28.33,1292,Third,11.03
+5,9173,Diesel,Automatic,24.11,1137,Third,14.43
+5,114369,CNG,Manual,23.44,2768,Second,1.53
+11,31400,Diesel,Manual,17.89,2665,Second,23.47
+6,186517,CNG,Automatic,10.03,1591,First,22.67
+7,75305,CNG,Manual,12.4,2316,Fourth & Above,14.04
+14,173636,Electric,Automatic,20.69,2822,First,14.86
+11,181886,Electric,Manual,23.5,1741,Third,17.92
+13,93791,Diesel,Manual,18.35,2922,Second,7.35
+2,164034,Petrol,Manual,24.61,858,Third,6.33
+7,75533,Diesel,Automatic,20.44,2862,First,17.18
+4,192256,CNG,Automatic,11.48,2054,Third,3.51
+8,108591,Electric,Automatic,13.84,2177,Third,11.9
+19,146650,Diesel,Automatic,26.8,834,Fourth & Above,12.83
+13,136060,Diesel,Manual,24.5,961,Third,10.15
+14,154696,Electric,Automatic,27.9,1694,First,5.45
+10,44194,Electric,Automatic,12.35,1270,Fourth & Above,9.53
+11,114903,Electric,Automatic,29.8,2246,Third,9.1
+2,136461,CNG,Manual,14.19,1147,First,12.98
+9,104303,Electric,Manual,10.24,1493,Second,17.19
+17,118903,Petrol,Automatic,29.95,1734,Fourth & Above,24.24
+3,72391,Diesel,Automatic,15.62,1712,Third,4.46
+6,149866,Electric,Manual,23.36,946,Third,21.95
+5,63002,Electric,Automatic,13.53,2511,Fourth & Above,7.82
+5,40531,CNG,Automatic,21.6,1474,First,15.19
+15,188887,CNG,Automatic,28.08,2239,Third,14.12
+17,9986,Diesel,Automatic,16.4,2317,First,14.37
+9,37298,Petrol,Manual,23.41,2079,Fourth & Above,18.36
+3,6481,Diesel,Manual,13.76,1485,Third,10.16
+17,61408,Electric,Manual,22.5,1926,Second,8.66
+10,126950,Petrol,Automatic,16.73,920,Second,21.47
+3,152907,Petrol,Automatic,14.22,841,Second,6.28
+18,130355,Petrol,Manual,16.26,828,Fourth & Above,5.33
+18,32798,Petrol,Manual,13.58,1765,Third,1.37
+17,96649,Diesel,Manual,28.04,2715,Fourth & Above,6.05
+3,69887,CNG,Automatic,17.94,2800,Third,13.44
+3,24477,CNG,Manual,14.91,2861,Second,13.92
+6,153338,Electric,Automatic,18.97,1719,Second,7.11
+13,132815,CNG,Automatic,16.41,1617,First,2.73
+15,179598,CNG,Manual,24.89,2308,Fourth & Above,18.87
+9,132426,CNG,Manual,29.42,2012,Fourth & Above,19.19
+4,147961,CNG,Automatic,18.76,1671,First,24.95
+14,29335,Electric,Manual,27.22,1094,Second,22.6
+5,147326,Diesel,Manual,21.32,1663,Second,23.23
+2,91610,Petrol,Automatic,13.14,1837,Fourth & Above,20.16
+11,16442,CNG,Automatic,23.81,1394,Third,15.77
+9,51289,Diesel,Automatic,20.27,1982,Second,4.09
+3,58747,CNG,Automatic,23.01,2317,First,15.94
+9,42327,CNG,Automatic,27.79,2152,First,2.34
+3,152271,Petrol,Manual,18.81,1413,First,22.25
+2,77827,Petrol,Automatic,28.02,2672,Fourth & Above,12.56
+12,111464,Petrol,Automatic,25.01,2403,Fourth & Above,17.74
+10,136184,CNG,Automatic,19.77,2383,Fourth & Above,2.25
+9,92051,CNG,Manual,22.06,2392,Fourth & Above,13.82
+15,155653,CNG,Automatic,16.51,1955,First,8.23
+8,64722,Petrol,Automatic,29.67,1264,First,7.84
+5,97036,Electric,Automatic,23.35,2279,Fourth & Above,10.35
+11,152595,Diesel,Manual,10.88,2090,Fourth & Above,1.02
+2,71960,Electric,Automatic,16.53,1367,First,12.2
+15,24552,CNG,Automatic,22.47,837,Fourth & Above,12.68
+6,146880,CNG,Automatic,11.13,1044,Fourth & Above,21.72
+8,159692,Electric,Manual,10.48,820,Fourth & Above,11.76
+5,5887,CNG,Manual,19.0,1933,Fourth & Above,9.73
+16,36802,Diesel,Manual,16.65,2429,Second,24.87
+18,90024,CNG,Manual,18.77,1193,Fourth & Above,14.71
+6,123639,Diesel,Automatic,15.25,2233,First,12.34
+5,123248,Electric,Automatic,13.29,1786,First,12.9
+16,86938,Electric,Manual,23.78,2471,First,20.42
+13,127746,CNG,Manual,20.29,2855,First,9.18
+5,31049,Diesel,Automatic,14.0,2710,Fourth & Above,10.34
+13,82789,CNG,Automatic,16.39,1089,Second,19.14
+17,89526,Petrol,Manual,21.84,2586,Third,2.75
+18,143918,Petrol,Manual,11.44,1711,Third,21.76
+8,51220,Petrol,Manual,12.95,1160,Third,11.32
+13,51163,Petrol,Manual,11.46,2422,Third,14.95
+19,139837,CNG,Automatic,26.25,1018,First,19.18
+3,122126,Petrol,Manual,25.05,2815,Fourth & Above,7.39
+8,86486,Diesel,Manual,25.07,2840,Fourth & Above,22.37
+2,181342,Electric,Automatic,24.33,2844,Third,24.5
+8,80277,Electric,Automatic,23.39,1631,Third,12.86
+13,109245,Petrol,Automatic,19.54,2593,Second,23.49
+13,127332,Petrol,Automatic,22.85,2591,Second,1.03
+1,27931,Petrol,Automatic,10.77,2043,Second,22.46
+6,94116,CNG,Manual,22.43,1394,First,8.47
+19,60633,Electric,Manual,25.56,2954,Fourth & Above,8.48
+16,56913,Petrol,Manual,20.01,1380,First,6.47
+8,99776,Diesel,Automatic,17.15,2547,First,8.61
+1,30991,Petrol,Manual,15.55,2855,Fourth & Above,6.12
+16,190917,Electric,Automatic,22.86,880,Second,22.74
+9,109092,Petrol,Manual,23.86,2955,Fourth & Above,22.58
+13,191384,Electric,Manual,27.42,2144,Third,3.45
+11,146633,Petrol,Automatic,16.85,2402,Second,4.43
+13,152973,Diesel,Automatic,25.4,1145,Fourth & Above,21.69
+10,100556,Petrol,Manual,21.23,2686,First,10.57
+4,67875,Diesel,Manual,27.66,1354,Fourth & Above,5.06
+6,161989,Diesel,Manual,20.56,1101,Second,13.26
+7,67120,Petrol,Manual,20.35,999,Third,11.0
+5,138060,Diesel,Manual,21.56,1862,First,6.26
+11,115041,CNG,Automatic,24.99,1106,Third,18.3
+13,133467,Petrol,Automatic,29.29,2456,Third,16.15
+19,150328,Petrol,Automatic,11.47,2671,First,3.39
+10,123490,Diesel,Automatic,11.07,2646,Fourth & Above,23.21
+10,131155,Diesel,Manual,28.75,2564,Fourth & Above,14.4
+11,33230,Petrol,Manual,20.6,1075,Third,7.0
+7,64778,CNG,Automatic,22.3,1975,Fourth & Above,5.95
+18,50833,Diesel,Manual,19.65,2201,Second,4.26
+4,27625,Diesel,Automatic,11.87,1437,Third,11.19
+2,37088,Electric,Manual,25.36,2575,Third,4.25
+14,177239,CNG,Manual,24.94,1729,Third,10.98
+13,108937,CNG,Manual,16.23,2680,Second,4.57
+12,81361,Petrol,Automatic,16.12,982,Third,16.76
+7,93229,CNG,Automatic,26.76,2644,Fourth & Above,19.85
+2,140189,Petrol,Automatic,11.45,871,Fourth & Above,14.19
+13,95265,Electric,Automatic,27.62,2476,Fourth & Above,17.32
+14,102718,CNG,Manual,15.13,2095,Fourth & Above,23.52
+17,65710,Diesel,Manual,21.86,1843,Third,16.32
+9,99876,Electric,Manual,28.72,1614,Second,9.74
+17,35949,Petrol,Manual,23.56,2326,First,11.79
+8,158619,Electric,Automatic,18.29,2994,Fourth & Above,21.65
+2,73136,Petrol,Manual,23.79,1109,First,4.14
+13,116541,Electric,Manual,16.88,2861,First,8.82
+3,66842,Petrol,Manual,15.55,931,Third,14.85
+16,31990,CNG,Automatic,29.93,2677,Fourth & Above,17.23
+6,152265,Diesel,Automatic,25.02,1539,Fourth & Above,19.32
+19,35109,Petrol,Automatic,22.89,1594,Fourth & Above,8.64
+7,135356,Electric,Manual,17.11,1057,First,4.5
+10,155305,Petrol,Automatic,10.98,2057,Fourth & Above,23.92
+9,133133,Petrol,Manual,10.62,2651,Fourth & Above,2.83
+2,170582,Petrol,Manual,21.08,1774,Second,3.3
+15,6306,Electric,Manual,25.24,1847,Third,12.88
+5,8849,Diesel,Automatic,20.75,1070,Fourth & Above,20.66
+4,17360,CNG,Automatic,26.82,1918,Fourth & Above,19.59
+4,116072,Diesel,Manual,10.67,941,Third,23.5
+18,99767,Petrol,Manual,17.34,1701,Third,4.4
+4,181872,Electric,Automatic,14.74,1073,First,10.02
+17,173035,Diesel,Automatic,18.95,1264,First,7.77
+12,59330,Petrol,Automatic,11.45,2031,First,21.66
+17,56707,CNG,Manual,29.08,2119,Third,12.72
+10,23689,CNG,Manual,14.47,1087,Second,1.64
+1,34084,CNG,Manual,28.45,1675,Fourth & Above,17.99
+18,45387,Petrol,Automatic,18.52,2792,Third,10.33
+18,79816,Electric,Automatic,29.71,1920,Second,13.75
+14,7642,Diesel,Automatic,21.08,2014,Third,22.45
+15,47137,CNG,Manual,28.62,1246,Second,7.16
+12,191633,Petrol,Manual,10.11,1521,Third,6.77
+4,67260,Petrol,Automatic,24.96,2963,Third,7.32
+3,151510,Diesel,Manual,28.06,2151,Second,9.11
+12,53442,CNG,Automatic,12.79,1206,Second,3.58
+7,108061,Petrol,Manual,11.92,2525,Second,17.73
+11,139066,Diesel,Automatic,18.49,1493,Second,5.98
+1,130844,Electric,Manual,28.67,1294,Second,23.23
+6,104575,Electric,Manual,20.85,1747,Second,6.18
+15,6813,Electric,Automatic,20.55,822,Second,7.14
+15,98027,CNG,Automatic,12.82,1928,Second,8.13
+19,128489,Diesel,Automatic,10.02,2498,Third,19.44
+11,89381,Diesel,Automatic,26.2,1357,Second,11.26
+2,60276,Petrol,Automatic,11.75,2416,Second,20.66
+14,46243,Petrol,Manual,22.68,1740,Third,19.84
+2,198984,Petrol,Automatic,28.29,2045,Third,23.31
+4,65272,Diesel,Automatic,14.17,2456,First,19.16
+17,178123,Petrol,Automatic,23.31,877,First,2.25
+3,70618,Diesel,Manual,11.57,2145,Second,21.09
+13,6920,Diesel,Automatic,22.08,1606,Second,23.51
+9,111121,Electric,Automatic,13.28,1841,First,24.85
+7,81872,Petrol,Automatic,24.72,1567,First,4.01
+15,86132,Electric,Manual,16.02,1253,Fourth & Above,15.72
+11,7093,CNG,Manual,19.27,2247,Fourth & Above,5.79
+2,17905,CNG,Automatic,21.99,2299,Second,7.3
+15,126759,CNG,Manual,13.43,1850,Fourth & Above,18.89
+14,160423,Diesel,Automatic,24.83,2688,First,24.46
+11,35981,Diesel,Manual,16.05,1162,Second,15.28
+3,78903,Diesel,Automatic,23.25,1324,Third,21.41
+17,75821,Petrol,Manual,13.17,2017,Third,1.21
+12,114200,Electric,Automatic,23.76,2285,First,1.88
+15,87289,Diesel,Automatic,12.56,2903,Fourth & Above,15.32
+16,121506,Electric,Manual,18.51,2053,Third,10.34
+5,83513,Electric,Automatic,14.94,2655,Fourth & Above,22.35
+6,155946,Electric,Automatic,24.97,1521,Third,8.25
+19,187003,Petrol,Automatic,15.24,2783,Fourth & Above,11.37
+5,143746,Petrol,Automatic,27.63,2007,Third,13.67
+3,55516,CNG,Manual,27.84,2248,Third,7.55
+1,196758,CNG,Automatic,13.93,2198,Second,22.8
+6,74212,Electric,Manual,22.28,2888,Second,12.15
+15,138498,CNG,Manual,11.75,2307,First,11.18
+2,135970,Electric,Manual,17.83,1803,Third,21.39
+3,95009,Petrol,Manual,24.27,1725,Fourth & Above,8.49
+17,166015,Petrol,Automatic,23.19,1655,Third,20.62
+12,49816,Petrol,Automatic,22.49,883,Fourth & Above,3.93
+18,9138,Diesel,Manual,15.65,2893,Fourth & Above,5.39
+15,96176,Electric,Automatic,17.56,2342,Third,23.82
+12,80945,Petrol,Manual,12.06,1785,Fourth & Above,21.22
+16,9017,Electric,Automatic,24.38,2668,First,10.31
+8,15451,CNG,Automatic,20.08,935,Second,16.32
+14,199028,CNG,Automatic,24.18,2006,Fourth & Above,23.63
+17,98863,Petrol,Manual,14.98,2532,Third,6.08
+8,15278,Electric,Manual,16.49,1995,Second,2.42
+15,48764,Petrol,Automatic,16.68,1708,First,13.9
+14,128030,CNG,Manual,10.51,1389,Fourth & Above,4.42
+18,137206,Petrol,Manual,16.82,2751,Fourth & Above,5.5
+7,67943,Electric,Automatic,26.07,1755,Second,22.4
+3,100667,CNG,Manual,27.95,1943,Fourth & Above,1.18
+12,59318,Diesel,Automatic,20.36,2131,Third,20.6
+3,108423,CNG,Automatic,19.11,2353,Second,13.41
+14,108998,Diesel,Automatic,10.62,2606,Second,14.42
+15,65128,Petrol,Manual,27.58,2900,Fourth & Above,17.12
+14,26869,Petrol,Automatic,10.26,1605,First,11.35
+7,10039,Electric,Automatic,28.9,2255,First,3.77
+17,157353,Diesel,Manual,19.78,851,First,3.47
+12,117935,Petrol,Manual,16.84,871,First,19.1
+4,15442,Diesel,Manual,28.48,827,Second,6.3
+9,78788,Petrol,Manual,10.49,1268,Second,1.67
+6,124729,CNG,Automatic,21.63,1563,Fourth & Above,24.51
+16,32586,Petrol,Manual,20.98,2224,First,24.53
+2,58053,Electric,Manual,14.39,1619,First,10.08
+8,186561,CNG,Manual,18.58,2289,Fourth & Above,1.61
+11,91346,Electric,Manual,23.05,2475,Fourth & Above,18.45
+13,72087,CNG,Automatic,24.54,1359,Fourth & Above,20.94
+17,148697,Diesel,Manual,10.01,1178,Third,4.0
+8,39397,Electric,Automatic,28.74,2718,Fourth & Above,4.25
+18,63671,Petrol,Manual,13.29,1875,Fourth & Above,20.73
+18,121214,Diesel,Automatic,14.67,878,Third,23.13
+14,71897,Petrol,Automatic,15.27,2208,First,19.98
+15,162221,CNG,Manual,10.76,1633,Second,5.82
+6,196102,CNG,Automatic,12.46,1831,First,10.88
+11,141355,Petrol,Manual,29.73,2872,Second,15.42
+13,143682,Petrol,Automatic,16.3,1249,Second,4.85
+1,179398,Diesel,Automatic,12.31,2792,Fourth & Above,6.05
+6,19924,Petrol,Automatic,12.14,2284,Fourth & Above,7.79
+9,118143,Electric,Manual,24.39,2542,Third,13.23
+8,115253,Electric,Automatic,27.09,2770,First,13.26
+11,105297,Petrol,Manual,15.14,2350,First,20.54
+19,5869,Electric,Automatic,10.42,1489,Second,19.07
+9,102088,Petrol,Automatic,14.46,2790,Fourth & Above,22.93
+17,6014,Diesel,Automatic,11.13,2201,Fourth & Above,20.99
+12,15103,Electric,Automatic,12.07,1386,First,7.09
+14,115317,Electric,Automatic,18.63,2951,Third,8.95
+15,169530,Petrol,Automatic,14.6,2629,Fourth & Above,13.01
+16,87409,Electric,Manual,20.32,2785,Third,1.34
+1,28248,CNG,Manual,15.07,1426,First,22.69
+10,179588,Diesel,Manual,28.81,2831,First,2.06
+8,165133,Diesel,Automatic,28.12,1163,Third,8.74
+18,160242,Electric,Manual,21.34,2982,Fourth & Above,14.66
+1,13024,Electric,Automatic,17.09,1173,First,13.43
+2,90947,CNG,Manual,17.62,2886,Second,16.71
+1,179875,CNG,Manual,18.24,2787,First,13.66
+1,155368,Electric,Automatic,24.55,2894,Fourth & Above,6.5
+9,96829,Electric,Automatic,19.03,2883,Second,5.83
+13,97708,CNG,Manual,27.13,2942,First,22.77
+1,91664,Petrol,Manual,28.88,2184,Fourth & Above,7.34
+13,154329,CNG,Manual,16.72,2348,Fourth & Above,7.74
+7,148927,Petrol,Manual,21.21,1969,First,10.91
+2,90178,Diesel,Automatic,11.9,2740,Fourth & Above,4.35
+6,106121,Diesel,Manual,14.01,1167,Third,13.17
+7,25025,CNG,Automatic,18.27,864,Second,16.96
+14,140530,Petrol,Automatic,14.12,1553,Third,19.86
+18,68610,CNG,Manual,27.53,2343,First,18.07
+15,75843,CNG,Automatic,13.17,2835,Third,4.54
+2,112237,Petrol,Manual,19.11,2676,First,11.95
+10,185903,CNG,Automatic,22.11,2378,First,1.93
+12,179499,Diesel,Automatic,23.84,1555,Fourth & Above,1.43
+17,135299,Electric,Manual,17.66,2324,Fourth & Above,11.56
+8,174578,Electric,Automatic,27.38,1396,First,7.07
+11,10668,CNG,Automatic,21.37,2634,Second,17.4
+3,183267,Petrol,Manual,18.79,2195,Second,18.38
+6,78233,Petrol,Automatic,11.34,2386,Second,22.49
+9,160489,Diesel,Automatic,19.29,911,Third,19.26
+6,86982,Petrol,Manual,26.41,1252,First,2.16
+9,111133,Petrol,Manual,22.29,2986,Fourth & Above,9.92
+7,15751,Diesel,Automatic,26.64,2671,Third,7.55
+9,51218,CNG,Automatic,19.88,2062,Third,10.27
+18,131649,Electric,Automatic,12.37,1052,Fourth & Above,4.84
+12,12352,Diesel,Manual,10.27,2804,First,3.34
+8,93835,CNG,Automatic,16.06,2259,Third,13.5
+8,102493,Diesel,Automatic,23.96,2742,First,18.29
+18,33927,CNG,Automatic,25.81,2126,First,17.85
+15,177166,Diesel,Automatic,15.92,2919,First,11.82
+7,106948,CNG,Automatic,19.91,2657,Fourth & Above,13.53
+11,190194,Diesel,Automatic,18.42,1900,First,13.39
+16,34493,CNG,Manual,18.21,861,Third,17.6
+4,36707,Diesel,Manual,14.63,2294,Fourth & Above,2.15
+6,143368,Electric,Automatic,12.73,1980,Fourth & Above,18.04
+3,161470,Electric,Automatic,13.93,1605,Third,14.97
+9,40842,Petrol,Manual,11.11,2972,Fourth & Above,5.75
+10,18261,CNG,Manual,13.96,2675,Third,2.18
+14,81709,Diesel,Manual,10.18,1340,Second,3.6
+11,100985,CNG,Automatic,22.55,1425,Third,13.59
+18,111616,Electric,Automatic,16.33,2414,Fourth & Above,19.2
+12,192776,CNG,Automatic,29.46,905,Third,9.03
+12,72173,Diesel,Automatic,13.87,1954,Second,10.1
+13,36781,CNG,Manual,16.92,2508,First,23.42
+13,18652,Diesel,Manual,17.16,2708,First,6.11
+19,10103,Electric,Manual,10.17,2849,First,3.49
+19,30500,Electric,Manual,26.78,1168,Fourth & Above,9.24
+14,105336,Electric,Automatic,10.64,2074,Second,18.9
+4,171601,Petrol,Automatic,28.8,1745,Third,16.03
+13,118499,Electric,Manual,27.84,1092,Third,10.98
+8,154524,CNG,Manual,20.71,1383,Third,24.15
+19,54393,Petrol,Manual,20.87,2970,Third,18.64
+12,167246,Electric,Manual,23.08,1564,Fourth & Above,2.48
+18,171508,CNG,Manual,17.74,2912,Fourth & Above,18.87
+6,52406,CNG,Automatic,22.94,2104,Second,1.58
+18,68059,CNG,Automatic,10.9,2214,Third,16.61
+19,152026,Diesel,Manual,11.08,1227,First,6.05
+5,87722,Petrol,Manual,19.14,2814,Fourth & Above,17.71
+9,17356,CNG,Manual,20.99,906,Second,8.43
+3,133128,Diesel,Automatic,27.76,1458,Second,21.95
+10,7187,Electric,Automatic,12.09,1982,Fourth & Above,9.09
+19,82243,CNG,Automatic,26.45,2025,First,15.87
+3,40098,Diesel,Manual,14.2,954,First,7.86
+15,157297,CNG,Automatic,17.88,1695,Third,23.01
+1,139678,Petrol,Manual,16.33,2321,Fourth & Above,19.74
+7,62620,Petrol,Automatic,18.0,2420,First,6.84
+12,168900,Electric,Automatic,13.01,1792,Fourth & Above,23.77
+17,131270,CNG,Automatic,20.07,2123,Second,9.57
+5,162561,Diesel,Manual,26.03,2185,Second,16.64
+4,19387,Electric,Manual,18.83,2101,Second,18.83
+12,74463,CNG,Automatic,19.81,1558,Fourth & Above,1.55
+18,138663,Electric,Manual,26.98,1546,Third,24.02
+17,184588,Diesel,Manual,24.12,1392,Third,9.27
+19,96683,Electric,Manual,19.81,2348,First,5.55
+9,67061,Electric,Manual,15.15,815,Fourth & Above,21.42
+4,86257,Electric,Manual,27.7,1792,Third,17.87
+2,66753,CNG,Manual,21.54,1868,Fourth & Above,3.08
+4,89774,Diesel,Manual,14.42,2144,Third,3.81
+2,147159,Petrol,Automatic,15.38,2995,Second,18.16
+15,166888,CNG,Manual,26.06,1502,Second,2.79
+2,28408,Petrol,Manual,10.88,1412,First,23.01
+4,129116,Petrol,Automatic,29.84,904,Second,18.8
+6,136208,CNG,Automatic,12.61,2297,Third,9.05
+7,22413,CNG,Automatic,25.92,1195,First,9.71
+10,118650,Diesel,Automatic,17.9,2810,First,13.16
+19,64500,Diesel,Manual,19.84,1650,Second,9.66
+19,89514,Electric,Automatic,27.61,2788,Fourth & Above,19.8
+12,61358,Petrol,Automatic,18.26,1241,Second,24.39
+3,71197,Diesel,Manual,20.75,2468,Second,15.03
+13,168926,Electric,Manual,10.99,1672,First,11.7
+18,81240,Diesel,Manual,10.05,1466,Second,6.35
+8,21322,CNG,Automatic,14.9,1851,Third,16.68
+15,118053,Diesel,Manual,23.61,1427,First,17.45
+1,11968,Petrol,Automatic,12.43,2228,Second,17.44
+3,32518,Diesel,Manual,12.28,1147,Fourth & Above,1.65
+8,56925,Petrol,Manual,18.22,2063,Third,22.58
+4,195920,CNG,Automatic,22.96,1817,Fourth & Above,9.11
+16,116900,Petrol,Manual,24.24,1369,Third,18.86
+10,98422,Diesel,Manual,13.57,2873,Fourth & Above,19.24
+12,6700,Electric,Manual,11.59,2752,Second,16.61
+14,98782,CNG,Manual,28.81,2151,Third,10.48
+14,28199,Diesel,Manual,15.21,1469,First,15.6
+2,180661,CNG,Automatic,27.07,1517,First,1.96
+5,168187,CNG,Automatic,27.27,1066,Fourth & Above,19.29
+5,198006,Diesel,Manual,25.45,2238,Fourth & Above,3.39
+6,190388,Diesel,Automatic,13.38,2156,Fourth & Above,10.52
+13,10520,Electric,Automatic,26.44,1822,Third,3.49
+9,114814,CNG,Automatic,25.39,2837,First,21.09
+15,172527,CNG,Manual,21.93,1364,Second,14.21
+14,128364,Diesel,Manual,16.74,2070,Third,17.58
+7,177677,Petrol,Manual,15.25,1859,Fourth & Above,17.38
+2,19955,Diesel,Automatic,12.44,2224,First,21.2
+7,180121,CNG,Automatic,20.2,827,Fourth & Above,4.18
+6,149989,Diesel,Manual,21.71,1019,Second,16.83
+17,69925,Electric,Manual,17.19,1205,Second,14.8
+2,112216,Petrol,Automatic,19.51,2437,First,1.74
+3,75269,Diesel,Automatic,17.27,2598,Third,5.83
+5,167026,Electric,Manual,22.82,2559,Second,7.42
+5,46458,CNG,Automatic,28.03,2474,Second,2.74
+1,94037,Diesel,Automatic,13.28,1591,Second,9.51
+8,157185,CNG,Automatic,17.63,1762,Second,1.65
+12,104977,Electric,Automatic,12.82,2109,Fourth & Above,14.28
+4,48939,CNG,Automatic,22.5,1633,Fourth & Above,6.08
+13,34345,Electric,Automatic,24.58,1116,Third,7.89
+15,182385,Electric,Automatic,28.64,2120,First,22.85
+11,115107,Electric,Manual,15.58,2130,First,13.07
+10,126866,Diesel,Manual,29.0,1150,First,7.46
+3,74166,CNG,Automatic,11.27,1310,Second,15.36
+14,183933,CNG,Automatic,22.06,1291,Fourth & Above,5.84
+16,102406,Petrol,Automatic,11.14,2731,Fourth & Above,2.79
+10,54298,Petrol,Manual,27.88,2417,Third,1.5
+10,183293,Petrol,Manual,20.6,2856,First,23.84
+12,49942,Petrol,Automatic,23.39,2320,Fourth & Above,18.39
+9,8453,CNG,Manual,26.63,2383,Third,20.2
+1,107811,Electric,Automatic,13.01,2375,First,24.54
+5,59935,Electric,Automatic,10.77,2561,Second,23.36
+8,127439,Diesel,Automatic,27.58,2791,Fourth & Above,18.69
+11,179442,Electric,Automatic,16.3,2068,Fourth & Above,17.66
+12,13328,CNG,Automatic,12.58,2880,First,9.08
+1,20534,CNG,Automatic,19.37,1846,Second,3.5
+11,90280,CNG,Automatic,21.97,848,Second,14.77
+5,41320,Diesel,Manual,10.62,1261,Fourth & Above,14.83
+15,54170,Petrol,Automatic,15.5,1135,First,23.85
+5,105546,Electric,Manual,10.66,2181,Third,11.62
+12,85201,CNG,Automatic,18.41,1945,Fourth & Above,17.58
+5,13640,CNG,Automatic,27.9,1158,Second,14.8
+17,166121,Petrol,Manual,29.65,992,Third,5.24
+17,141690,CNG,Manual,22.74,2239,First,15.21
+12,192125,Electric,Automatic,13.23,2200,Second,13.96
+15,137992,Diesel,Manual,28.12,1555,Third,12.85
+15,48937,CNG,Automatic,20.32,2484,Fourth & Above,13.32
+6,148279,Electric,Automatic,13.07,1627,Second,4.94
+12,169044,CNG,Manual,28.43,1689,First,12.12
+18,146871,Petrol,Manual,25.15,1452,Second,15.54
+14,164988,CNG,Manual,24.63,2721,Fourth & Above,12.75
+2,75463,CNG,Manual,24.18,1650,First,12.73
+9,98500,Diesel,Automatic,14.01,910,Fourth & Above,2.86
+5,42158,Petrol,Manual,14.22,1419,Third,5.58
+1,89607,Petrol,Manual,23.77,1592,Second,8.7
+3,124639,Diesel,Manual,14.39,2897,Fourth & Above,11.06
+6,76696,CNG,Manual,18.77,1957,Third,15.25
+5,66510,Electric,Manual,25.64,1387,First,21.72
+5,125076,Petrol,Automatic,25.68,2109,First,4.82
+1,63692,Petrol,Automatic,19.07,2757,Third,1.36
+17,135841,CNG,Manual,25.84,1096,Third,11.78
+19,197816,CNG,Manual,26.77,2429,First,11.37
+14,20810,Petrol,Automatic,23.1,1368,Fourth & Above,14.25
+12,141198,CNG,Manual,14.57,1987,Third,21.0
+10,166081,Electric,Automatic,15.48,1631,Fourth & Above,20.26
+18,116718,Petrol,Automatic,16.3,1409,First,3.4
+11,95932,Electric,Manual,12.34,815,Fourth & Above,23.42
+2,5192,Electric,Automatic,15.46,2169,Fourth & Above,3.65
+18,41413,CNG,Manual,14.19,871,Third,16.23
+7,148888,Electric,Manual,19.11,1069,Fourth & Above,17.14
+15,44082,CNG,Automatic,28.17,1086,Fourth & Above,17.32
+11,70048,Diesel,Automatic,12.09,865,Fourth & Above,7.37
+18,128130,CNG,Manual,24.41,1679,First,8.93
+12,55940,Electric,Automatic,23.75,867,First,14.17
+6,168202,Diesel,Manual,11.92,2016,Second,5.79
+13,45142,CNG,Automatic,28.45,2202,First,1.49
+16,41468,Electric,Automatic,21.37,1773,First,14.49
+18,166770,Petrol,Manual,17.27,1307,Second,12.17
+10,146727,Petrol,Manual,25.13,1925,Second,16.76
+8,183969,CNG,Manual,15.15,1685,Third,4.52
+18,166147,CNG,Automatic,23.87,2787,Third,21.18
+1,145431,Petrol,Manual,10.79,1574,First,4.51
+8,134048,Electric,Manual,26.79,1725,Fourth & Above,22.39
+6,47056,Electric,Automatic,18.96,919,Third,11.79
+5,56831,Electric,Automatic,22.73,2738,Third,14.2
+15,64191,CNG,Manual,14.42,1287,First,22.52
+15,126948,Diesel,Manual,23.54,2925,Fourth & Above,8.2
+2,169344,Diesel,Manual,25.44,1240,Second,5.36
+1,113117,Diesel,Manual,19.46,1261,Second,11.7
+11,19671,Diesel,Automatic,22.35,1411,First,6.86
+10,32048,Diesel,Automatic,19.13,2117,First,13.67
+18,30963,CNG,Manual,27.88,2459,Fourth & Above,7.61
+18,48954,CNG,Manual,19.96,1716,First,21.75
+17,100430,Diesel,Manual,26.84,805,First,15.58
+8,5717,CNG,Automatic,26.03,1480,First,1.01
+15,16676,CNG,Manual,18.21,2443,Fourth & Above,20.33
+8,140506,Diesel,Manual,14.6,898,First,8.93
+17,185882,Electric,Automatic,18.12,1325,Third,8.68
+12,123696,CNG,Automatic,26.52,1980,Fourth & Above,10.19
+8,135830,Electric,Manual,14.55,2489,Third,16.13
+14,9994,CNG,Manual,20.49,1938,Fourth & Above,11.61
+4,9234,CNG,Automatic,26.12,1195,Third,16.09
+1,74300,Diesel,Manual,17.07,1569,Fourth & Above,4.52
+1,48949,CNG,Manual,22.84,2626,Second,24.28
+19,42405,Petrol,Automatic,14.91,2345,First,18.51
+16,39872,Petrol,Automatic,12.19,1482,First,7.0
+14,47215,Diesel,Automatic,25.89,2356,Fourth & Above,18.38
+16,28185,Electric,Manual,11.98,814,Third,14.8
+5,179514,Electric,Automatic,15.43,2036,Second,3.62
+9,187831,Electric,Automatic,27.1,804,Third,5.28
+2,46153,Petrol,Manual,16.93,2708,First,1.99
+18,82535,Electric,Manual,29.46,2225,First,20.42
+6,138653,Electric,Automatic,29.59,2407,Third,14.24
+9,56717,Diesel,Automatic,15.37,968,Fourth & Above,8.6
+1,7763,Electric,Manual,10.82,1591,Fourth & Above,4.03
+9,97910,Petrol,Manual,24.1,1799,Third,12.62
+16,60480,Petrol,Automatic,19.02,951,First,13.61
+13,174831,Petrol,Automatic,12.02,1303,Third,17.85
+9,123094,Diesel,Manual,24.15,2373,First,24.28
+13,161379,Diesel,Automatic,10.62,2891,Third,11.44
+9,16064,CNG,Manual,27.4,1303,Fourth & Above,10.74
+11,81848,Electric,Automatic,12.77,1642,Second,9.88
+4,42548,Diesel,Manual,12.55,1150,First,20.85
+2,173017,Petrol,Manual,13.51,2870,Second,4.75
+6,184009,Petrol,Automatic,29.21,2459,Fourth & Above,9.25
+14,11476,Diesel,Automatic,23.86,1397,Third,18.4
+4,187828,Diesel,Manual,26.03,1866,Fourth & Above,1.38
+6,95101,Diesel,Automatic,17.95,839,Second,7.95
+19,7382,CNG,Automatic,16.73,974,Fourth & Above,16.39
+6,185755,Petrol,Automatic,14.69,1798,Fourth & Above,5.46
+2,181348,CNG,Manual,19.61,2284,Third,8.27
+18,169474,CNG,Automatic,21.04,2016,Second,12.67
+13,163018,Electric,Automatic,22.64,1635,Second,11.13
+9,84698,Petrol,Manual,15.14,1859,Second,3.54
+19,158407,Petrol,Automatic,28.97,1697,First,23.52
+13,50095,Diesel,Automatic,13.4,2363,Fourth & Above,2.06
+11,134974,Diesel,Manual,29.31,1846,Second,18.99
+1,32197,Electric,Manual,10.3,1731,Fourth & Above,2.71
+7,132619,CNG,Automatic,19.62,2938,Third,12.22
+15,27010,Diesel,Automatic,16.67,2051,Third,5.21
+1,160195,Diesel,Manual,18.98,2025,First,4.39
+12,92923,Petrol,Manual,21.41,2173,First,4.02
+7,138962,Petrol,Automatic,18.71,1861,Third,11.87
+15,135526,Diesel,Automatic,18.3,1299,Second,13.37
+19,114162,Petrol,Automatic,24.65,2522,Third,4.2
+1,125927,Electric,Manual,23.72,2915,Fourth & Above,24.51
+17,13026,Diesel,Automatic,26.67,2563,First,7.19
+17,69925,Petrol,Manual,15.0,2970,First,12.01
+3,73842,Electric,Manual,22.19,2508,Third,6.19
+12,38665,Petrol,Manual,21.7,1135,Second,12.85
+6,14277,Petrol,Automatic,17.39,1976,Second,19.14
+11,178311,Petrol,Automatic,19.72,1578,Fourth & Above,13.51
+3,183736,Diesel,Automatic,16.28,1985,First,7.86
+8,53008,CNG,Manual,12.84,2733,Third,6.96
+14,19683,Petrol,Automatic,14.28,2266,Third,19.21
+14,136742,Electric,Manual,12.11,2361,First,3.84
+10,153961,Diesel,Manual,23.66,1738,Third,9.88
+2,191684,Diesel,Manual,23.21,1603,First,4.64
+14,180607,Electric,Manual,29.01,2735,Second,7.19
+9,83542,Petrol,Manual,24.59,1433,Second,4.66
+3,59319,CNG,Manual,11.04,2053,Third,22.28
+8,97067,Petrol,Automatic,27.68,1882,Second,18.57
+16,157711,Electric,Manual,27.25,2943,Second,14.46
+2,152705,Diesel,Automatic,18.87,2085,Fourth & Above,6.39
+6,170732,CNG,Manual,21.72,1153,First,13.25
+12,73975,Diesel,Automatic,29.52,1959,First,13.5
+5,168244,Electric,Automatic,20.65,2685,Third,15.17
+2,195269,Petrol,Automatic,28.11,2618,First,2.44
+16,106158,CNG,Automatic,11.66,1766,Fourth & Above,24.35
+5,194919,Diesel,Manual,13.82,1969,Third,12.17
+15,16577,Diesel,Manual,18.82,2347,Third,23.24
+12,82299,Diesel,Manual,21.7,2934,First,1.24
+4,25176,Petrol,Manual,26.32,908,Second,6.94
+15,180458,CNG,Automatic,29.77,2168,Second,3.5
+11,68972,Petrol,Automatic,17.78,2557,Second,19.47
+16,125018,Petrol,Automatic,10.95,1793,Second,8.68
+6,177075,Petrol,Manual,26.02,2317,Fourth & Above,21.17
+14,24996,Electric,Automatic,22.09,2156,Third,20.98
+18,105922,Electric,Manual,13.97,1621,Second,17.03
+12,91598,Electric,Automatic,19.9,1736,Fourth & Above,16.98
+11,40931,CNG,Automatic,24.85,990,Third,17.8
+13,129168,Petrol,Automatic,25.41,2796,First,17.17
+11,171782,Petrol,Automatic,19.99,1732,First,10.29
+16,128099,Electric,Automatic,16.1,941,Fourth & Above,17.39
+15,39693,Petrol,Manual,29.47,2692,Third,22.54
+15,171812,Petrol,Automatic,23.27,1365,Second,8.98
+4,113944,Diesel,Manual,18.16,2082,Third,23.68
+11,22374,Petrol,Manual,15.61,2262,Second,1.33
+19,86471,Diesel,Manual,24.62,1934,Fourth & Above,9.38
+15,50913,Petrol,Manual,14.84,1543,Second,4.17
+4,128683,CNG,Manual,13.43,1472,Fourth & Above,4.04
+13,49516,Electric,Manual,20.6,1330,Third,20.57
+19,92796,Diesel,Manual,15.8,2113,Third,23.04
+2,31069,Electric,Manual,22.58,1361,Second,19.67
+14,123333,Diesel,Automatic,12.36,2333,Third,24.44
+4,192305,Diesel,Automatic,23.1,1101,Second,6.19
+16,89811,Diesel,Manual,15.67,984,Third,4.38
+14,195121,CNG,Manual,10.0,1309,First,13.5
+15,123028,Petrol,Manual,12.54,2133,Second,20.9
+3,44178,Diesel,Automatic,28.67,2169,Fourth & Above,1.96
+8,37821,CNG,Automatic,27.35,1594,First,24.89
+16,187799,Diesel,Manual,14.67,2323,Fourth & Above,15.45
+10,197007,Petrol,Manual,25.57,1560,Third,24.49
+4,21999,Diesel,Automatic,22.17,2994,First,9.76
+18,198594,CNG,Automatic,29.42,1234,Third,11.99
+2,43712,Petrol,Manual,17.47,2342,Second,19.06
+17,176244,CNG,Manual,23.63,2838,Fourth & Above,20.02
+13,38722,Petrol,Manual,11.27,2506,Third,6.59
+4,15625,Petrol,Manual,17.92,868,Fourth & Above,23.32
+11,11859,Electric,Automatic,29.28,2429,Fourth & Above,21.82
+7,177681,Electric,Automatic,20.78,2704,Third,1.44
+12,179379,Electric,Manual,15.76,1353,Second,4.09
+10,115986,Petrol,Manual,12.41,2860,Fourth & Above,12.91
+7,26839,Diesel,Manual,24.07,2097,Third,12.06
+13,32216,CNG,Automatic,22.9,2898,Second,18.0
+7,57953,CNG,Manual,17.48,1299,Third,3.15
+17,196665,CNG,Manual,29.02,2329,Second,16.48
+10,54522,Electric,Manual,10.44,2311,Fourth & Above,15.79
+10,140958,Petrol,Automatic,16.07,1078,First,6.61
+4,116249,Electric,Manual,28.42,1882,Third,14.02
+4,12485,Diesel,Automatic,16.42,1245,Fourth & Above,6.33
+7,167527,Petrol,Manual,15.05,2960,Third,4.53
+1,152839,CNG,Manual,20.68,1635,Third,14.76
+12,117701,Electric,Manual,26.48,1554,Second,24.46
+13,164525,Electric,Automatic,12.06,2645,Third,6.69
+10,107638,Diesel,Manual,28.86,2392,Second,9.53
+15,189514,Diesel,Manual,25.9,2312,Fourth & Above,7.16
+13,187949,Electric,Automatic,13.63,2230,Third,7.4
+9,17226,Diesel,Automatic,24.24,1883,Fourth & Above,10.7
+9,98405,CNG,Automatic,17.7,2390,First,17.84
+15,27588,Diesel,Manual,18.05,2708,Fourth & Above,1.93
+10,167781,Diesel,Automatic,25.67,1822,Third,23.97
+10,183860,Electric,Manual,29.26,2361,First,2.11
+8,42019,Electric,Automatic,12.53,976,Second,22.15
+16,181020,Petrol,Automatic,18.41,1646,First,22.47
+17,70133,Petrol,Automatic,19.62,2048,Third,13.59
+5,119444,Electric,Manual,17.53,2400,Third,4.29
+4,122603,Diesel,Manual,17.26,2404,Fourth & Above,14.56
+18,163598,Diesel,Manual,11.05,2775,Second,16.09
+19,133585,Petrol,Manual,23.71,2856,Third,21.59
+4,188270,Petrol,Manual,18.72,1035,Third,14.22
+7,48395,Petrol,Manual,13.9,1509,Second,10.86
+10,160103,CNG,Manual,26.32,1593,Second,21.12
+18,130814,CNG,Manual,26.05,2734,Fourth & Above,24.54
+19,173773,Petrol,Manual,19.73,2469,First,16.48
+4,117599,Diesel,Automatic,15.97,826,Second,21.99
+10,30939,Petrol,Automatic,22.76,2026,Third,15.37
+1,185217,CNG,Manual,15.76,884,Second,17.55
+18,156396,Diesel,Manual,14.72,2655,Third,17.52
+5,158939,CNG,Manual,24.61,1922,Fourth & Above,17.91
+15,5203,Diesel,Manual,10.81,2013,First,8.7
+17,152616,CNG,Automatic,11.9,811,Fourth & Above,14.82
+3,151971,Diesel,Automatic,10.14,1812,Second,15.26
+12,34063,Diesel,Manual,13.06,2548,Third,8.56
+2,95880,Diesel,Automatic,11.38,2676,Second,9.4
+1,8748,Diesel,Automatic,29.92,2117,Second,19.29
+17,122269,Electric,Manual,15.78,2183,Second,14.99
+16,85764,CNG,Manual,12.99,2478,Second,4.58
+5,156956,CNG,Manual,14.82,979,First,21.1
+15,161255,Electric,Manual,28.72,1596,Third,22.19
+3,113036,Diesel,Automatic,20.4,2267,Second,12.19
+7,155331,Diesel,Manual,17.3,2824,Third,6.01
+11,172031,CNG,Automatic,27.47,1686,First,23.74
+10,121525,Electric,Manual,17.9,1989,Third,22.17
+9,169529,Diesel,Automatic,16.7,2475,Third,6.87
+14,90679,Diesel,Manual,14.15,2319,First,3.29
+13,130829,Diesel,Manual,17.56,1570,Second,11.58
+2,133216,Petrol,Automatic,16.33,2078,Third,17.23
+3,138175,Electric,Automatic,23.55,1758,Fourth & Above,5.21
+7,70901,Diesel,Automatic,15.79,1716,Third,13.32
+18,180607,Petrol,Manual,21.54,2870,Second,11.21
+3,152175,Electric,Automatic,11.32,2581,Fourth & Above,22.37
+10,103046,Diesel,Automatic,13.83,1138,Second,11.31
+7,95012,CNG,Automatic,18.15,2316,Third,13.81
+9,83278,Petrol,Automatic,28.74,2195,First,23.93
+17,17391,Petrol,Automatic,17.55,1714,Second,8.19
+11,107476,Diesel,Automatic,23.28,2653,Second,7.94
+7,164973,Diesel,Automatic,15.1,1274,First,20.19
+14,125721,Petrol,Automatic,12.54,2246,Third,7.66
+19,102537,CNG,Automatic,11.17,2179,Second,20.96
+4,86159,CNG,Manual,16.11,2283,Third,3.29
+6,136040,Electric,Manual,13.15,2874,Third,3.67
+10,186429,Diesel,Automatic,13.48,1600,Third,22.63
+7,174509,CNG,Manual,25.22,2046,First,13.98
+13,40503,Electric,Manual,10.32,1663,Third,18.25
+14,80403,CNG,Automatic,21.16,1971,Third,6.41
+4,177330,Diesel,Automatic,17.59,1538,Fourth & Above,4.99
+8,169796,Electric,Automatic,20.13,2174,Fourth & Above,21.04
+5,69286,Electric,Automatic,21.26,1781,Fourth & Above,9.61
+1,79842,Electric,Automatic,16.27,2888,Second,11.92
+4,109927,CNG,Automatic,15.9,1811,Second,1.67
+3,19908,Diesel,Manual,24.67,2926,Fourth & Above,10.26
+9,186698,Electric,Automatic,27.43,1516,First,19.49
+8,42228,Petrol,Manual,13.85,2607,First,20.71
+1,28386,Diesel,Automatic,11.95,2273,Fourth & Above,17.77
+6,182826,Petrol,Automatic,27.96,1965,Second,17.61
+9,33302,Petrol,Manual,17.0,1409,Second,13.15
+7,65815,Electric,Automatic,21.03,2983,First,13.92
+4,68344,Electric,Automatic,17.19,2612,Third,18.82
+13,171690,CNG,Manual,12.52,2135,First,6.94
+17,116603,CNG,Automatic,21.79,1354,Third,6.56
+2,66114,CNG,Manual,20.5,2455,Second,23.8
+5,30525,Diesel,Automatic,14.06,2555,Second,1.66
+12,84818,CNG,Automatic,19.04,845,Fourth & Above,4.35
+8,119589,Petrol,Manual,25.94,2059,Second,14.69
+6,150406,CNG,Automatic,21.81,1871,Third,18.71
+8,99715,Electric,Manual,11.94,2931,First,13.91
+18,198839,CNG,Manual,20.96,1342,Fourth & Above,9.52
+3,11644,Diesel,Manual,24.05,2251,Third,24.47
+12,106154,Diesel,Automatic,25.85,2918,First,17.89
+3,169005,Petrol,Automatic,22.58,2792,First,20.95
+6,48469,Diesel,Manual,13.05,1712,First,1.97
+2,169759,CNG,Automatic,24.2,1868,Second,6.66
+12,111609,Electric,Automatic,23.55,1611,First,9.98
+2,188728,Diesel,Automatic,10.49,2288,Second,5.38
+6,153447,Petrol,Manual,18.23,2708,First,2.75
+17,70206,CNG,Automatic,16.66,2373,First,6.4
+3,101462,Petrol,Manual,23.39,1666,Second,13.81
+2,172679,Diesel,Automatic,14.32,2566,Second,17.7
+8,88178,Diesel,Automatic,21.82,1379,Third,19.58
+12,160065,Petrol,Manual,28.26,2242,First,2.03
+4,180458,CNG,Automatic,25.96,1497,Second,11.27
+5,182359,Diesel,Manual,28.43,2776,Third,3.93
+13,91724,Electric,Automatic,29.57,1525,Third,11.35
+15,101393,Diesel,Manual,10.21,1085,Second,11.42
+16,132314,CNG,Automatic,22.45,2691,First,12.96
+10,81312,Diesel,Automatic,18.26,1369,Third,22.43
+16,80324,Petrol,Automatic,27.2,2764,First,20.32
+12,76196,Diesel,Manual,15.04,2313,First,16.28
+17,75014,Diesel,Manual,29.62,1297,Third,22.25
+16,144282,CNG,Manual,22.27,2717,Second,17.28
+12,146994,Petrol,Automatic,25.87,1504,First,20.65
+8,172361,CNG,Manual,11.71,2156,Fourth & Above,14.53
+3,38340,Diesel,Manual,13.67,1361,Second,13.61
+16,44850,Electric,Manual,25.17,2798,Third,18.38
+13,193056,Diesel,Manual,10.44,831,Fourth & Above,1.47
+19,118711,CNG,Manual,26.34,842,First,17.57
+8,16094,Electric,Manual,10.28,2716,Second,23.43
+5,92959,CNG,Manual,23.14,2174,Fourth & Above,18.13
+8,169490,CNG,Manual,17.3,2645,Second,1.88
+12,10741,Petrol,Manual,22.23,1358,First,10.07
+1,116585,Electric,Manual,23.92,2236,Second,20.43
+6,127564,Diesel,Automatic,16.85,1742,Fourth & Above,24.01
+18,73798,CNG,Automatic,12.16,2398,Second,9.88
+8,121026,Diesel,Manual,11.39,2170,Third,21.19
+7,115130,Petrol,Automatic,21.78,2728,Third,21.73
+1,27164,Petrol,Automatic,20.41,2436,Fourth & Above,3.96
+16,171667,Electric,Manual,24.84,2884,Second,21.3
+12,35257,Petrol,Manual,20.19,891,Fourth & Above,8.78
+6,150283,Petrol,Manual,18.45,2643,Second,15.24
+2,100989,Diesel,Automatic,17.96,984,First,13.94
+14,141304,Petrol,Manual,10.53,1527,Third,16.91
+4,57691,Petrol,Automatic,16.71,1851,First,18.77
+1,84768,CNG,Manual,29.52,2371,Second,11.58
+18,161685,Petrol,Automatic,27.47,1631,First,22.32
+13,19026,CNG,Automatic,16.59,1144,Fourth & Above,20.43
+2,189607,Petrol,Manual,21.76,2242,Fourth & Above,19.85
+9,35908,Petrol,Manual,26.95,2019,Second,12.0
+2,188185,Electric,Automatic,18.83,2925,Third,1.9
+9,24610,Electric,Automatic,10.36,966,Fourth & Above,12.81
+1,182718,CNG,Manual,11.49,1063,Third,22.56
+11,68185,Petrol,Manual,20.21,2295,Second,5.57
+3,77567,Diesel,Automatic,29.39,2031,Third,24.58
+4,183646,Electric,Manual,23.86,2086,Second,20.38
+18,41182,Diesel,Automatic,11.42,2329,First,18.04
+6,121136,Electric,Manual,13.79,2608,Second,17.25
+3,136642,Electric,Manual,25.43,2677,First,15.09
+11,24288,Petrol,Manual,26.83,2549,Second,18.3
+15,83824,Electric,Automatic,22.35,2709,Fourth & Above,11.13
+5,165949,Diesel,Manual,22.89,2135,Fourth & Above,21.29
+10,89425,Electric,Automatic,10.57,1997,Third,17.71
+12,5917,CNG,Manual,26.57,1567,Second,19.51
+15,80602,Petrol,Automatic,25.77,900,Second,20.02
+17,69575,Petrol,Automatic,15.18,2532,Second,3.21
+10,77518,CNG,Manual,24.17,2719,Third,2.34
+6,44104,CNG,Automatic,14.3,2171,Fourth & Above,20.22
+18,154134,CNG,Automatic,10.81,904,Second,7.23
+13,21999,Electric,Automatic,14.02,1493,Third,14.97
+3,197917,Petrol,Automatic,13.57,2490,Second,11.65
+10,146013,CNG,Manual,16.75,2110,First,1.53
+14,66169,Electric,Manual,18.37,1870,Second,1.97
+6,159542,CNG,Manual,20.17,1866,First,20.85
+3,134744,Diesel,Automatic,19.54,1617,Third,15.58
+16,115684,Diesel,Automatic,15.41,2336,Third,13.57
+7,64821,Petrol,Manual,10.58,2991,Fourth & Above,23.66
+14,180507,Electric,Manual,22.1,1689,Second,5.15
+9,140601,Diesel,Automatic,17.91,2677,Third,7.19
+15,17192,Diesel,Manual,15.97,2673,Fourth & Above,19.16
+3,79102,Electric,Manual,27.34,1589,Second,19.61
+2,119894,CNG,Automatic,24.93,1352,Third,10.72
+2,91795,Electric,Manual,27.16,1643,First,23.82
+3,170159,CNG,Automatic,19.9,1458,Third,23.52
+18,71677,Diesel,Manual,12.62,1818,First,1.3
+14,140699,Diesel,Automatic,23.92,2753,Fourth & Above,5.14
+18,192613,Diesel,Automatic,14.12,1990,Fourth & Above,20.69
+10,139327,Petrol,Automatic,18.82,1550,Second,9.05
+2,193505,Petrol,Automatic,11.3,1574,Second,3.29
+1,141285,Petrol,Automatic,26.51,2180,Second,19.84
+4,107412,Electric,Manual,12.52,1491,Fourth & Above,11.91
+14,24404,Diesel,Manual,28.06,1518,First,12.82
+1,121545,Diesel,Manual,27.28,1033,Second,5.47
+14,161452,Electric,Automatic,19.29,2871,Second,16.86
+16,155245,Petrol,Manual,24.89,2204,Fourth & Above,14.23
+14,189099,Electric,Automatic,22.39,1805,First,5.96
+3,28989,Petrol,Automatic,26.06,2169,Third,9.17
+3,113106,Diesel,Manual,18.64,2201,Second,15.33
+9,29519,CNG,Automatic,25.72,2864,Third,23.2
+6,27439,Petrol,Manual,19.25,1516,Third,23.09
+13,123570,Diesel,Automatic,28.82,2362,Second,7.91
+2,19995,Diesel,Automatic,19.73,2511,Fourth & Above,18.65
+8,28559,CNG,Manual,19.25,2025,Second,19.61
+2,94049,Diesel,Automatic,25.7,2071,First,20.41
+4,141093,Diesel,Manual,26.43,2965,First,14.7
+15,103000,Petrol,Automatic,21.09,808,Second,1.25
+4,157191,Petrol,Manual,13.6,1397,Third,19.28
+13,187611,CNG,Automatic,19.36,822,First,3.56
+12,44350,CNG,Manual,29.36,2790,First,3.8
+13,182295,Diesel,Manual,25.06,2408,Second,15.53
+14,30517,Petrol,Automatic,26.22,2874,Second,24.6
+18,158322,CNG,Manual,10.66,1904,Fourth & Above,6.82
+6,94132,CNG,Automatic,19.36,891,Second,16.5
+11,190271,Electric,Automatic,22.93,1650,Second,8.29
+2,64546,CNG,Manual,26.6,2782,First,22.57
+19,110686,Diesel,Manual,10.99,1907,First,15.24
+19,93151,Petrol,Manual,27.05,1099,First,5.98
+5,8327,CNG,Manual,20.97,2277,Third,7.29
+19,125318,Electric,Manual,13.95,2104,First,11.38
+2,165840,Petrol,Automatic,16.35,1800,First,3.93
+10,178860,CNG,Manual,15.64,1882,Second,2.89
+2,120945,Electric,Automatic,20.62,2165,Fourth & Above,17.32
+11,51830,CNG,Manual,11.03,2909,First,10.77
+18,57446,Petrol,Manual,13.17,1575,Fourth & Above,18.43
+15,151232,Petrol,Manual,26.25,2252,First,3.64
+9,192655,Petrol,Automatic,12.65,2481,First,15.64
+19,170070,Diesel,Manual,14.67,2551,Fourth & Above,11.64
+9,163302,CNG,Automatic,19.07,2651,Second,2.39
+3,145148,Diesel,Automatic,20.34,2697,First,14.08
+9,74341,Petrol,Automatic,25.27,2529,Fourth & Above,2.99
+14,36085,Electric,Manual,18.95,2127,First,20.87
+19,60571,CNG,Automatic,25.8,1414,Third,16.17
+7,150787,Diesel,Manual,22.37,1044,Third,14.37
+16,133308,CNG,Automatic,12.26,1556,Third,4.2
+16,10750,Electric,Manual,13.13,1623,Third,7.9
+1,118931,Diesel,Automatic,18.74,2646,Second,12.83
+4,83768,Petrol,Manual,17.94,2235,Third,16.2
+4,40903,Diesel,Manual,24.87,2040,Fourth & Above,5.4
+7,168165,CNG,Manual,21.61,1315,First,1.21
+8,96036,CNG,Automatic,17.76,1273,Fourth & Above,9.27
+17,92954,CNG,Automatic,13.42,835,Third,12.59
+5,170386,CNG,Manual,14.54,2210,Second,5.43
+7,184297,Petrol,Automatic,21.51,2592,Third,12.81
+4,88014,Diesel,Automatic,18.47,2534,Third,9.12
+6,171251,Petrol,Automatic,20.3,1629,Second,11.92
+7,122305,Petrol,Automatic,13.41,1892,Second,9.34
+18,161410,Petrol,Automatic,23.26,1985,Second,16.08
+5,37101,CNG,Automatic,27.05,2562,Second,2.03
+3,7775,CNG,Automatic,15.16,1744,Second,5.1
+7,116497,CNG,Manual,19.83,2311,Second,11.39
+14,50619,Diesel,Manual,29.51,1230,First,9.55
+7,181910,Electric,Automatic,16.66,2822,Third,10.4
+5,155611,CNG,Manual,21.9,1658,Third,20.29
+5,62124,Diesel,Manual,11.8,1029,Second,22.27
+2,70149,CNG,Manual,22.12,977,Fourth & Above,6.97
+6,31616,CNG,Automatic,11.79,2233,Second,21.07
+15,190639,Petrol,Automatic,29.18,2413,First,12.01
+10,173171,Petrol,Automatic,24.31,2563,Fourth & Above,7.57
+7,66799,Petrol,Automatic,25.76,2574,First,24.65
+5,95221,Diesel,Automatic,24.08,1774,Fourth & Above,20.8
+1,119879,Electric,Manual,21.79,881,Fourth & Above,24.86
+13,30479,Electric,Automatic,19.0,1645,Second,5.04
+18,182244,Diesel,Manual,27.17,2016,First,4.45
+13,104165,CNG,Automatic,29.14,1417,Fourth & Above,13.08
+18,60863,Diesel,Manual,19.98,1244,First,16.33
+5,178115,CNG,Automatic,28.63,1722,Second,5.11
+13,87569,Diesel,Automatic,21.67,992,Second,21.65
+4,151480,Diesel,Automatic,20.77,2462,Second,13.77
+17,194052,Diesel,Automatic,19.09,1088,Second,10.86
+3,21351,Electric,Automatic,14.19,1967,Third,15.45
+17,140203,Petrol,Automatic,10.07,2230,Fourth & Above,16.24
+11,49825,Diesel,Manual,14.83,2634,Third,2.03
+4,16349,Electric,Automatic,20.19,2770,Second,25.0
+2,197003,Petrol,Manual,17.6,1695,Fourth & Above,9.73
+16,49254,Petrol,Automatic,18.97,1719,Fourth & Above,2.48
+18,43225,Diesel,Manual,29.61,2834,First,21.46
+8,17453,CNG,Manual,17.01,2352,Second,24.83
+3,154886,CNG,Manual,19.04,2500,Third,20.59
+9,154335,CNG,Manual,12.67,2860,First,21.45
+6,82694,Diesel,Manual,10.96,2525,Fourth & Above,16.02
+10,20735,CNG,Manual,25.51,2697,Third,23.14
+10,151902,Electric,Automatic,21.41,2599,Second,1.86
+13,52893,Electric,Manual,25.21,1111,Third,19.4
+17,180745,Electric,Automatic,13.0,1927,Third,17.1
+9,132006,Electric,Automatic,21.44,1138,Third,2.19
+17,50066,Petrol,Manual,15.07,1158,First,14.06
+9,139445,Electric,Manual,14.56,1972,Fourth & Above,13.36
+9,146407,CNG,Automatic,10.23,1567,Third,17.6
+1,159813,Diesel,Manual,12.61,2889,Fourth & Above,2.86
+2,15692,CNG,Manual,16.19,1001,First,20.33
+16,183367,Electric,Manual,12.34,2492,Second,4.35
+1,50541,Petrol,Manual,29.72,1263,Second,11.05
+10,170129,Electric,Manual,16.17,1248,Third,22.15
+18,71983,Diesel,Manual,12.61,1712,First,14.45
+8,155655,CNG,Manual,13.98,1597,Second,10.11
+11,158837,Diesel,Automatic,21.75,1593,First,2.16
+2,195359,Diesel,Manual,11.28,1236,First,17.13
+8,159978,Diesel,Automatic,27.25,2716,Third,24.68
+8,125747,CNG,Automatic,29.23,2573,Third,22.88
+17,90103,Electric,Automatic,14.93,1330,First,18.22
+15,182597,Diesel,Automatic,19.0,1364,First,3.53
+17,174302,CNG,Manual,10.44,2420,Third,6.75
+13,155592,Petrol,Automatic,22.81,2096,First,5.48
+19,188006,CNG,Automatic,18.28,1012,Third,9.53
+5,30566,Petrol,Automatic,15.4,1748,Fourth & Above,6.65
+12,78193,CNG,Automatic,14.14,1927,First,6.87
+1,166206,Electric,Automatic,23.08,991,Third,15.8
+5,146417,Diesel,Manual,18.32,2203,First,8.65
+8,126015,Electric,Manual,13.59,2790,Third,17.25
+13,177257,CNG,Automatic,23.78,1904,First,23.75
+8,135956,Diesel,Manual,21.3,1504,Second,16.32
+11,75744,Petrol,Manual,27.17,1348,Second,19.04
+1,38455,CNG,Automatic,12.35,2661,First,19.04
+13,164090,Diesel,Automatic,25.71,953,Second,8.94
+19,59219,Petrol,Automatic,23.47,2465,First,1.36
+3,50991,Petrol,Manual,12.3,1370,First,2.32
+17,78616,Electric,Automatic,23.9,2584,Fourth & Above,7.77
+5,92438,CNG,Manual,18.83,1604,Fourth & Above,17.55
+8,121841,Petrol,Manual,28.9,1598,Second,22.76
+14,145558,Diesel,Manual,12.83,1410,Fourth & Above,24.01
+4,174934,Petrol,Automatic,22.86,2606,Fourth & Above,1.62
+11,63870,Petrol,Manual,17.64,942,First,24.76
+15,91694,Electric,Automatic,29.14,1071,Third,8.74
+19,48856,Electric,Automatic,16.6,2355,First,21.23
+7,106407,Diesel,Automatic,29.24,2893,Fourth & Above,5.33
+19,36379,Electric,Automatic,28.03,2942,First,2.51
+19,69729,Petrol,Automatic,15.41,2911,Second,10.08
+11,164450,Petrol,Manual,26.07,1258,Third,21.61
+5,59353,Electric,Manual,29.91,2538,Fourth & Above,6.3
+5,186068,Petrol,Manual,15.05,2232,Fourth & Above,4.69
+8,19031,Petrol,Manual,18.74,1305,First,22.84
+10,70982,Diesel,Manual,20.4,2509,First,23.52
+6,41683,Electric,Automatic,15.9,1896,First,1.3
+15,119091,Petrol,Automatic,10.31,883,First,18.46
+16,122797,Electric,Manual,14.4,858,Fourth & Above,8.42
+17,153690,Diesel,Manual,15.64,1844,First,9.99
+8,11587,Electric,Manual,18.87,2281,Fourth & Above,12.26
+8,67790,Petrol,Automatic,13.42,2152,First,11.24
+9,36480,Electric,Automatic,27.47,2396,Third,13.36
+2,156599,Petrol,Automatic,24.1,1375,Third,14.98
+15,28569,Petrol,Manual,11.7,1479,First,12.17
+18,16151,Petrol,Manual,23.0,1002,First,17.84
+3,195246,Diesel,Manual,23.07,1929,Second,18.25
+17,49739,Electric,Manual,29.12,1117,Third,11.57
+4,37954,Diesel,Automatic,10.06,2005,Fourth & Above,4.42
+4,114373,Electric,Manual,14.96,2438,Third,16.38
+14,171375,Diesel,Manual,28.56,2596,Fourth & Above,19.55
+9,39700,CNG,Manual,28.64,1205,First,16.31
+9,128728,Petrol,Automatic,24.41,1478,Third,15.11
+18,71788,Petrol,Automatic,25.32,2070,Third,6.51
+10,76045,Diesel,Manual,11.83,2689,Second,16.48
+4,173914,CNG,Automatic,20.28,2347,Second,9.04
+12,149972,Petrol,Automatic,14.63,2443,Third,23.07
+8,132992,Electric,Automatic,13.62,2159,Third,16.69
+2,85059,Diesel,Automatic,26.21,2245,Third,7.68
+13,6881,Petrol,Automatic,12.7,1634,Fourth & Above,12.35
+16,169109,Petrol,Manual,19.37,2468,First,21.32
+2,137702,Diesel,Manual,28.77,2730,Second,9.05
+11,25789,Diesel,Manual,13.72,1080,First,13.61
+10,131083,Electric,Automatic,29.56,2613,Second,17.31
+15,93059,Electric,Automatic,29.89,1732,Second,19.11
+17,51151,Petrol,Automatic,21.11,1407,Second,5.17
+8,184992,Petrol,Automatic,13.4,1282,Third,14.56
+18,114388,Diesel,Manual,16.32,2046,Second,22.89
+9,8262,Petrol,Manual,18.49,2572,First,24.24
+8,71981,Petrol,Manual,16.19,2964,Second,16.75
+14,125951,Diesel,Manual,15.61,991,First,24.61
+18,128099,Petrol,Manual,29.44,2817,Second,14.7
+12,86972,Petrol,Manual,13.07,1106,Second,11.62
+19,80485,CNG,Automatic,24.67,1331,Third,14.24
+14,59722,Electric,Automatic,10.01,921,First,3.78
+17,94499,Diesel,Manual,21.92,1391,Second,10.64
+3,186890,CNG,Automatic,28.32,2275,Second,12.0
+7,166004,Electric,Manual,15.76,858,First,21.37
+17,11901,Electric,Manual,13.71,2373,Second,19.21
+12,122473,Electric,Automatic,23.03,1940,Fourth & Above,15.43
+9,13597,CNG,Manual,24.25,2610,Third,9.33
+15,134631,CNG,Manual,23.76,2605,First,5.49
+18,68909,Electric,Manual,16.39,1198,Third,9.35
+13,77391,Petrol,Automatic,15.04,1741,Fourth & Above,17.32
+8,144335,Petrol,Automatic,29.12,1327,Fourth & Above,7.31
+14,68293,CNG,Automatic,28.47,2574,Fourth & Above,11.25
+8,161877,CNG,Automatic,19.15,2221,First,10.28
+14,16874,CNG,Manual,26.92,2469,Fourth & Above,19.37
+7,91402,Electric,Automatic,19.05,2350,First,22.21
+12,19079,Petrol,Automatic,18.49,1235,First,17.78
+11,185922,CNG,Automatic,13.14,1639,Second,9.2
+11,77779,CNG,Manual,18.53,1159,First,11.4
+13,100408,Diesel,Automatic,20.75,1952,Fourth & Above,4.44
+18,145090,Electric,Automatic,10.45,1663,First,5.03
+2,125606,Diesel,Manual,18.88,2450,First,4.94
+15,185572,Petrol,Manual,25.63,2532,Third,4.13
+18,125062,Diesel,Manual,23.6,2045,Fourth & Above,5.31
+15,17100,Diesel,Manual,22.7,1715,First,5.86
+19,62021,Diesel,Automatic,28.19,2598,Second,3.68
+12,155872,Electric,Manual,10.36,2982,First,16.37
+13,133126,Petrol,Automatic,21.14,1185,First,24.77
+11,199472,Diesel,Automatic,25.75,2126,Third,22.1
+5,97446,Electric,Automatic,20.83,2605,Fourth & Above,2.09
+1,34437,Petrol,Automatic,16.48,2385,Fourth & Above,11.15
+3,182747,CNG,Automatic,12.73,2012,Second,21.62
+19,156014,Diesel,Manual,27.75,2349,Second,4.23
+7,25862,Petrol,Automatic,19.42,1188,Second,21.34
+12,16669,Diesel,Automatic,27.56,1503,First,15.22
+15,126219,CNG,Automatic,21.72,2538,First,23.35
+5,189844,Petrol,Manual,23.48,1663,Second,22.02
+15,20916,Electric,Automatic,26.09,1859,Fourth & Above,17.25
+8,15878,Petrol,Automatic,23.18,878,Fourth & Above,16.79
+10,7985,Electric,Manual,17.96,2098,Second,6.12
+16,46235,Petrol,Automatic,20.27,2101,Third,3.8
+8,23931,Electric,Automatic,26.06,1473,Fourth & Above,10.97
+1,97876,CNG,Manual,17.47,1003,Fourth & Above,5.48
+12,5336,CNG,Automatic,17.76,1784,Second,3.46
+5,47933,CNG,Automatic,11.91,2775,Fourth & Above,8.26
+3,50536,Petrol,Automatic,28.29,816,First,21.65
+1,74504,CNG,Automatic,11.82,1275,First,1.41
+4,104214,Diesel,Automatic,22.96,1816,Fourth & Above,8.02
+8,187220,CNG,Manual,18.26,1009,First,11.18
+3,118936,Electric,Manual,18.11,1298,Third,13.25
+10,21279,Electric,Manual,23.59,1228,Fourth & Above,5.36
+2,108751,Electric,Automatic,11.34,2129,Second,24.14
+11,109433,Petrol,Automatic,21.87,2905,First,14.89
+10,76386,Diesel,Automatic,25.44,2353,Third,13.53
+14,91124,CNG,Manual,26.56,2031,Third,1.21
+7,110750,Diesel,Automatic,13.41,2334,First,12.66
+2,82485,Diesel,Automatic,27.95,2667,Third,21.1
+9,79055,Electric,Automatic,23.12,2676,Fourth & Above,6.27
+16,96911,Electric,Manual,27.64,1698,Third,9.43
+13,103618,Electric,Manual,19.71,1906,First,1.49
+9,190100,Petrol,Automatic,20.84,1867,Third,24.45
+4,118892,Diesel,Automatic,28.38,2306,First,2.6
+10,76128,Diesel,Automatic,28.0,2467,First,22.56
+12,154180,Petrol,Manual,18.96,1292,Third,8.51
+17,57495,Petrol,Manual,15.49,1404,First,15.1
+14,87806,Petrol,Manual,17.86,1747,First,17.3
+14,98185,Diesel,Automatic,17.76,1093,Second,4.38
+2,192902,Diesel,Manual,15.74,1971,Fourth & Above,11.65
+11,188581,Electric,Automatic,15.37,2818,First,8.81
+16,175591,Electric,Automatic,27.22,971,Fourth & Above,2.36
+19,54649,Diesel,Manual,11.4,2386,Second,21.0
+6,170596,Electric,Automatic,23.55,1330,Second,2.08
+19,169957,Petrol,Manual,13.46,1943,Second,16.68
+5,180441,CNG,Automatic,16.89,2659,Second,8.54
+4,100402,Electric,Automatic,11.23,2560,Fourth & Above,5.61
+15,35676,Diesel,Manual,15.4,2913,Third,17.01
+4,69093,Electric,Automatic,25.37,2988,Third,14.79
+10,183836,Electric,Automatic,27.7,988,Fourth & Above,8.57
+3,186871,Electric,Automatic,14.43,957,First,13.31
+5,84414,CNG,Automatic,19.27,2770,Fourth & Above,6.91
+6,98095,Petrol,Automatic,19.41,1045,First,21.73
+8,77307,Diesel,Automatic,27.47,1649,First,8.53
+7,100432,CNG,Automatic,25.26,2610,Third,6.88
+10,36923,Diesel,Automatic,20.26,1894,Second,19.04
+6,122449,Diesel,Manual,23.41,2136,Third,1.42
+14,52574,Diesel,Manual,26.95,2926,Third,7.43
+4,179463,CNG,Automatic,10.19,968,Fourth & Above,10.01
+13,126757,Petrol,Automatic,18.06,2451,Fourth & Above,22.17
+17,58664,Diesel,Manual,28.14,2309,First,23.81
+7,72384,Petrol,Automatic,24.81,2595,Fourth & Above,18.2
+4,36027,Petrol,Manual,20.86,1419,First,12.82
+14,171536,Electric,Manual,20.59,2964,First,16.37
+3,39485,CNG,Manual,16.96,1156,Second,10.94
+5,155528,CNG,Automatic,20.41,2477,Second,8.17
+16,40554,Electric,Automatic,23.11,2011,Third,23.82
+4,51922,Electric,Automatic,18.37,2104,Second,3.77
+2,18409,Petrol,Manual,24.28,2334,First,9.31
+18,41639,Diesel,Manual,27.22,2289,Fourth & Above,22.58
+19,199699,CNG,Manual,13.09,2763,Second,18.36
+19,24692,Diesel,Automatic,19.03,2161,Second,1.7
+17,94037,Diesel,Manual,18.16,998,Second,1.55
+14,190272,Electric,Manual,23.75,2587,Second,13.4
+19,193487,Diesel,Automatic,15.0,1873,First,12.62
+13,23074,Petrol,Manual,22.81,1965,First,11.63
+12,151621,Electric,Manual,27.55,2606,Third,8.26
+6,34963,Diesel,Automatic,18.36,2337,Fourth & Above,24.68
+4,57265,Electric,Automatic,28.22,830,Third,7.53
+19,21061,Petrol,Manual,29.86,1459,Third,12.76
+16,194298,Petrol,Automatic,12.12,1346,Second,10.72
+13,164882,Diesel,Manual,14.66,1929,Fourth & Above,5.09
+4,196078,Electric,Automatic,29.01,2944,Second,5.86
+17,118502,Diesel,Manual,29.17,1170,First,23.04
+1,27800,Diesel,Automatic,11.95,1923,Third,21.6
+18,121192,Electric,Manual,10.3,2268,Fourth & Above,5.78
+17,112228,Diesel,Automatic,13.22,2291,First,22.02
+15,193839,Petrol,Automatic,29.92,2902,Third,6.02
+11,33054,Electric,Automatic,13.6,1951,Fourth & Above,16.04
+13,181469,Electric,Automatic,20.05,2879,Third,2.95
+1,18233,Electric,Automatic,26.97,892,Fourth & Above,22.13
+17,161140,Electric,Automatic,10.41,2081,Third,2.24
+6,70727,Diesel,Automatic,22.09,2725,Second,14.32
+4,95610,Diesel,Manual,15.54,2043,Third,19.71
+16,75453,Petrol,Manual,27.25,2371,Third,3.8
+15,109135,CNG,Automatic,15.67,1215,Fourth & Above,10.71
+15,161904,CNG,Automatic,23.74,2344,Fourth & Above,2.01
+6,113464,Petrol,Manual,23.48,1488,Second,17.39
+15,18682,CNG,Manual,14.43,2465,Fourth & Above,8.38
+14,159455,Petrol,Automatic,10.7,2858,Third,14.43
+11,63160,Diesel,Manual,18.18,2330,Fourth & Above,23.39
+7,28666,Electric,Manual,15.78,1218,Fourth & Above,8.34
+9,63817,Electric,Automatic,26.18,1945,Fourth & Above,2.17
+16,96198,Diesel,Automatic,26.01,1710,Second,17.22
+5,170714,Electric,Automatic,19.14,2154,Second,19.88
+10,46830,Electric,Manual,22.13,2366,First,23.99
+18,15234,CNG,Automatic,22.09,1211,Second,4.79
+3,62616,Diesel,Automatic,26.54,2047,Second,10.41
+13,14221,CNG,Manual,18.5,952,Second,21.26
+11,147482,CNG,Automatic,15.51,2035,Third,20.36
+17,197485,Electric,Manual,15.3,891,First,16.0
+13,6051,Electric,Manual,20.72,1130,Third,7.46
+6,115529,Diesel,Manual,18.98,2464,Second,7.82
+17,81918,Electric,Manual,18.8,1754,Second,3.98
+13,83116,Electric,Manual,11.82,2051,First,23.12
+19,127226,Diesel,Manual,24.37,993,First,5.15
+19,192635,Electric,Automatic,14.27,1329,Fourth & Above,14.75
+10,49757,CNG,Automatic,13.94,2066,Second,15.02
+3,126008,Diesel,Automatic,18.26,2273,Second,9.87
+14,187329,Electric,Manual,14.56,1438,Third,9.46
+19,136379,Petrol,Automatic,21.68,2410,Fourth & Above,17.05
+5,61889,Diesel,Manual,17.43,2397,Second,10.32
+5,40944,Diesel,Automatic,18.98,1497,Third,7.12
+17,104555,Petrol,Manual,20.74,2845,First,10.58
+10,43134,Electric,Automatic,14.07,2501,Third,20.38
+5,163395,Electric,Manual,13.12,1339,Second,24.2
+4,30954,Diesel,Automatic,27.61,1129,Third,16.26
+6,191093,Diesel,Manual,18.67,1269,Third,19.77
+4,94959,Electric,Automatic,18.24,1333,Fourth & Above,13.79
+7,9992,Electric,Manual,10.71,2762,Fourth & Above,16.0
+7,6961,CNG,Automatic,19.96,1266,First,24.71
+18,17497,Diesel,Automatic,21.08,1561,Fourth & Above,11.52
+3,168623,Diesel,Automatic,21.18,1805,Third,2.59
+1,191827,Petrol,Manual,24.14,1690,Fourth & Above,23.97
+4,18255,CNG,Manual,13.55,2755,Second,20.03
+6,140639,Electric,Manual,15.04,1753,Third,10.56
+9,53847,CNG,Manual,26.21,2243,Third,24.58
+14,184075,Electric,Manual,28.94,2472,Third,9.29
+12,25389,Electric,Automatic,12.72,1631,Second,9.93
+4,180595,CNG,Manual,19.95,1643,Third,15.63
+12,128802,Diesel,Automatic,14.28,2119,Fourth & Above,7.58
+10,66576,Electric,Automatic,11.2,983,Second,17.77
+7,48919,CNG,Manual,16.51,2083,Third,4.67
+3,8358,Petrol,Automatic,12.87,2490,Fourth & Above,3.59
+14,93535,CNG,Manual,24.2,2232,Fourth & Above,13.84
+10,110982,Petrol,Manual,20.67,2596,First,14.33
+16,10698,Electric,Manual,12.88,1426,Fourth & Above,3.56
+16,71809,CNG,Automatic,10.18,2855,Fourth & Above,24.14
+10,98079,CNG,Manual,26.16,1582,First,14.76
+13,60805,Petrol,Manual,13.52,2307,First,4.62
+6,167421,CNG,Manual,22.12,2584,Second,8.47
+12,186320,CNG,Automatic,16.74,1574,Fourth & Above,20.21
+9,80033,Electric,Manual,21.71,2559,Second,13.56
+13,103239,CNG,Automatic,16.31,2663,Second,5.52
+4,135407,Diesel,Automatic,11.74,1806,Third,3.47
+11,49041,Petrol,Manual,14.46,1476,Second,11.34
+18,36954,CNG,Automatic,13.76,2630,Second,9.1
+11,13002,Petrol,Automatic,18.56,1010,Second,16.74
+4,74783,Petrol,Manual,23.17,2136,Second,23.21
+18,112524,Petrol,Manual,15.28,2427,First,6.95
+1,129857,CNG,Manual,10.24,2160,Fourth & Above,21.53
+7,24738,CNG,Automatic,20.38,1289,Third,23.09
+6,15703,Petrol,Manual,22.12,2226,First,22.65
+15,118776,Diesel,Automatic,29.26,990,Third,23.85
+18,185494,Petrol,Automatic,21.79,1642,Third,21.21
+11,197971,Diesel,Automatic,19.42,1134,First,15.24
+15,148464,Petrol,Automatic,21.47,2442,Second,10.84
+16,49724,Electric,Automatic,28.56,1910,First,12.8
+7,37299,Petrol,Manual,26.57,1378,Third,21.94
+10,20641,Petrol,Manual,16.46,861,Third,8.23
+12,84534,CNG,Automatic,14.75,1186,Second,4.82
+14,11305,Diesel,Automatic,15.25,1969,First,4.38
+5,23782,Electric,Manual,20.09,1418,Fourth & Above,20.85
+18,83257,Diesel,Manual,24.88,2483,Third,19.28
+5,82963,Electric,Automatic,20.06,2677,First,12.94
+3,126987,Petrol,Automatic,11.36,1286,Second,7.6
+5,156638,CNG,Manual,24.47,2077,Second,17.26
+17,129591,CNG,Manual,26.12,1340,Fourth & Above,1.92
+19,72766,Diesel,Automatic,15.79,2335,Third,14.64
+19,11511,CNG,Manual,23.28,2860,Fourth & Above,10.56
+12,119816,Diesel,Manual,18.53,950,Fourth & Above,24.47
+9,162249,Diesel,Automatic,27.78,1873,Fourth & Above,13.18
+1,9765,Electric,Automatic,26.9,2038,Fourth & Above,14.25
+18,156426,Diesel,Automatic,20.51,1790,Second,18.1
+4,28929,Electric,Manual,23.83,1171,Third,12.63
+10,164892,CNG,Automatic,27.67,1936,Fourth & Above,6.39
+7,116576,Diesel,Manual,19.91,2900,Third,13.89
+1,165595,Diesel,Automatic,16.27,1953,Second,23.66
+17,76088,Petrol,Automatic,25.07,992,Second,10.84
+2,82525,Diesel,Manual,14.4,1880,First,17.31
+11,18780,Diesel,Manual,17.77,2944,First,24.47
+9,11589,Petrol,Automatic,27.31,997,Third,20.92
+7,170884,Petrol,Automatic,24.49,2994,First,16.82
+17,98664,CNG,Manual,18.08,2398,Fourth & Above,18.66
+17,182011,Diesel,Automatic,14.29,2400,Third,23.48
+2,187565,CNG,Manual,17.12,1483,Second,24.03
+6,109188,CNG,Manual,15.68,1132,Second,24.26
+14,98326,Petrol,Automatic,13.52,2043,Fourth & Above,16.02
+6,45953,Electric,Manual,24.87,2221,First,10.23
+2,70785,CNG,Manual,15.04,2165,Third,4.2
+1,24309,Electric,Manual,19.08,2621,Third,10.25
+10,59195,Diesel,Automatic,17.72,2291,Fourth & Above,23.63
+5,30901,Petrol,Manual,29.64,2571,First,22.36
+2,159648,Diesel,Automatic,17.82,2810,Third,13.57
+16,167580,Diesel,Automatic,11.6,2012,Fourth & Above,13.89
+2,30464,Petrol,Automatic,11.8,1943,Third,8.41
+10,196353,Diesel,Manual,21.82,904,Second,11.91
+2,21260,Petrol,Manual,21.99,1606,Third,18.15
+16,129997,Electric,Automatic,18.38,1864,Third,10.66
+16,40440,Diesel,Automatic,18.64,1688,Third,5.51
+19,100082,Petrol,Manual,11.08,1120,First,13.98
+7,110583,CNG,Automatic,20.33,2300,First,6.41
+12,61683,Diesel,Automatic,20.09,2368,Fourth & Above,24.38
+15,129206,Electric,Manual,12.99,2596,First,10.37
+8,177502,Petrol,Automatic,12.08,2319,Third,22.83
+6,138059,Diesel,Manual,12.47,2718,Third,6.41
+10,161177,Diesel,Manual,12.02,2665,First,5.54
+3,83484,Diesel,Automatic,22.19,2205,First,15.81
+19,149098,Electric,Manual,13.93,2304,Third,19.71
+17,73309,Petrol,Manual,15.03,2759,Third,14.6
+7,50927,CNG,Manual,13.47,804,Second,6.52
+4,193607,CNG,Automatic,29.16,2881,Fourth & Above,1.91
+14,47946,CNG,Automatic,27.09,1968,First,15.84
+15,131503,Petrol,Automatic,14.61,1147,Fourth & Above,4.14
+8,192633,CNG,Manual,16.55,2565,Third,9.24
+15,146449,Electric,Manual,14.2,924,Fourth & Above,17.22
+14,58592,Petrol,Automatic,19.84,2613,First,3.35
+9,143419,Diesel,Automatic,10.39,1297,First,4.05
+8,38776,Electric,Manual,23.43,1976,Fourth & Above,2.48
+17,139855,Diesel,Automatic,20.46,852,First,24.91
+2,60798,CNG,Automatic,27.97,948,Second,10.29
+3,140370,Electric,Automatic,13.29,1302,Third,22.74
+8,75204,Petrol,Automatic,26.08,1669,Third,8.05
+12,91207,Electric,Automatic,25.84,1018,First,19.08
+1,105356,Diesel,Manual,12.54,2100,Third,6.26
+10,191233,Petrol,Automatic,17.97,2930,Second,12.96
+3,65652,Electric,Automatic,13.4,1537,First,20.79
+6,170556,Electric,Manual,15.09,1089,Second,20.59
+7,134572,Electric,Manual,15.26,1138,Second,20.06
+18,25922,Electric,Manual,21.12,2493,Third,20.77
+11,170100,Petrol,Manual,18.23,2668,Third,6.08
+19,156388,Diesel,Automatic,28.95,1786,Fourth & Above,12.57
+5,81996,Electric,Automatic,12.53,1758,Second,12.64
+19,153040,Petrol,Automatic,29.47,2030,Third,22.37
+11,35266,Diesel,Automatic,14.61,2088,Second,8.13
+12,160072,Electric,Manual,25.46,2806,Fourth & Above,23.36
+10,150083,Diesel,Manual,16.78,1172,Second,11.82
+8,7866,Diesel,Automatic,12.86,2311,First,17.07
+9,117669,Petrol,Automatic,27.16,1330,Fourth & Above,7.45
+4,10898,Diesel,Automatic,16.18,1723,Fourth & Above,10.85
+5,23395,Petrol,Automatic,23.18,822,Second,18.04
+8,175091,Electric,Manual,21.33,2951,Second,13.31
+9,9006,Diesel,Automatic,19.44,1040,Third,23.34
+15,170465,Diesel,Manual,19.92,1804,First,18.69
+15,15956,CNG,Manual,24.64,2696,Fourth & Above,14.55
+16,186114,Electric,Manual,11.76,1965,Fourth & Above,22.28
+14,142150,Electric,Manual,23.36,1613,Fourth & Above,16.97
+8,165703,CNG,Automatic,27.92,1454,Third,16.54
+18,100676,CNG,Automatic,11.16,1582,First,6.91
+10,126724,Petrol,Automatic,12.81,807,Fourth & Above,10.48
+6,67901,Petrol,Automatic,24.33,2514,Fourth & Above,17.4
+12,112227,Diesel,Manual,18.75,1374,Third,22.4
+2,122192,Diesel,Manual,18.07,1711,Second,8.57
+7,177646,Diesel,Manual,12.74,1317,Fourth & Above,6.17
+16,36417,Diesel,Automatic,20.14,2341,First,15.25
+3,93020,Petrol,Manual,12.53,1282,First,2.61
+13,88639,Electric,Manual,19.53,1378,First,18.15
+3,99881,Diesel,Manual,25.27,1186,First,17.88
+18,175526,Electric,Manual,15.17,1211,Third,9.52
+11,137659,Diesel,Automatic,19.62,2665,Fourth & Above,22.42
+8,126688,CNG,Manual,29.84,2193,Third,13.05
+6,120584,Diesel,Manual,23.73,2176,First,16.5
+1,190782,Diesel,Automatic,26.83,2767,First,6.03
+1,91567,Diesel,Automatic,18.3,2159,First,11.02
+8,80886,Petrol,Automatic,25.36,1705,Third,21.7
+5,154888,CNG,Manual,10.81,2112,First,6.11
+16,34432,Diesel,Manual,12.46,1762,Fourth & Above,10.37
+11,184689,Diesel,Manual,14.06,1764,First,8.63
+5,77373,Electric,Manual,18.04,2987,Fourth & Above,4.63
+4,170289,CNG,Automatic,26.91,2776,Fourth & Above,7.95
+6,25884,Diesel,Manual,16.93,1836,First,6.59
+14,10454,Electric,Manual,23.09,1463,Third,23.17
+19,79960,Electric,Automatic,24.19,1624,Second,18.79
+9,107421,Petrol,Automatic,21.72,2687,Second,8.59
+12,48618,Electric,Automatic,17.14,1791,Fourth & Above,19.32
+11,198743,Diesel,Manual,21.54,1932,Third,1.53
+14,52111,Petrol,Manual,16.85,2996,Second,13.64
+16,175685,Petrol,Manual,11.68,2539,First,7.01
+1,125592,Diesel,Manual,29.86,1883,First,3.74
+13,64993,CNG,Manual,12.54,1234,Fourth & Above,22.21
+13,133652,Electric,Automatic,11.45,820,Third,5.78
+2,144920,Petrol,Automatic,27.57,2725,Third,20.74
+4,83672,CNG,Manual,16.04,2272,Second,10.92
+6,71125,Diesel,Manual,23.01,1899,Second,1.34
+5,122509,Electric,Manual,16.58,1189,First,18.58
+3,66602,Electric,Manual,17.83,2154,Fourth & Above,15.31
+1,47222,Petrol,Manual,15.24,1225,Third,9.26
+4,54223,Electric,Automatic,16.86,2525,Second,7.76
+2,70333,Electric,Automatic,18.21,1829,Second,2.77
+5,188804,Electric,Automatic,24.41,805,Fourth & Above,23.59
